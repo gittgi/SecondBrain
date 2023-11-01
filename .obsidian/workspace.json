@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 링크 테스트/무제 파일.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언 링크 테스트/무제 파일.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언 링크 테스트/무제 파일.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언 링크 테스트/무제 파일.md"
+                "file": "README.md"
               }
             }
           }
@@ -185,9 +185,9 @@
   },
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
+    "링크 파일.md",
     "README.md",
     "옵시디언 링크 테스트/무제 파일.md",
-    "링크 파일.md",
     "README~.md",
     "옵시디언 링크 테스트"
   ]
