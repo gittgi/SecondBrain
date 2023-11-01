@@ -1,3 +1,3 @@
 # SecondBrain
 asdadadadasdas
-[[무제 파일]]
+[[링크 파일]]
