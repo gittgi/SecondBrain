@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "Spring/의존관계 주입(DI).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "Spring/의존관계 주입(DI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "Spring/의존관계 주입(DI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/SOLID.md"
+                "file": "Spring/의존관계 주입(DI).md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
-    "JAVA/객체 지향.md",
-    "JAVA/SOLID.md",
-    "Spring/스프링의 개념, 컨셉.md",
-    "Spring/의존관계 주입(DI).md",
     "Spring/제어의 역전(IoC).md",
+    "Spring/의존관계 주입(DI).md",
+    "JAVA/SOLID.md",
+    "JAVA/객체 지향.md",
+    "Spring/스프링의 개념, 컨셉.md",
     "Template/{{Title}}.md",
     "JAVA/캡슐화.md",
     "JAVA/다형성.md",
