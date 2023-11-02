@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/캡슐화.md",
+                "file": "JAVA/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/캡슐화.md",
+                "file": "JAVA/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/캡슐화.md",
+                "file": "JAVA/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/캡슐화.md"
+                "file": "JAVA/SOLID.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
-    "Spring/스프링의 개념, 컨셉.md",
     "JAVA/객체 지향.md",
+    "JAVA/SOLID.md",
+    "Spring/스프링의 개념, 컨셉.md",
+    "Spring/의존관계 주입(DI).md",
+    "Spring/제어의 역전(IoC).md",
+    "Template/{{Title}}.md",
+    "JAVA/캡슐화.md",
     "JAVA/다형성.md",
     "JAVA/메서드 오버라이딩.md",
     "JAVA/메소드 오버로딩.md",
@@ -158,8 +163,6 @@
     "JAVA/자바 빈 규약.md",
     "JAVA/접근 제어자.md",
     "JAVA/추상화.md",
-    "JAVA/캡슐화.md",
-    "Template/{{Title}}.md",
     "getter/setter.md",
     "getter",
     "JAVA",
