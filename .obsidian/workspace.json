@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md",
+                "file": "JAVA/접근 제어자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md",
+                "file": "JAVA/접근 제어자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md",
+                "file": "JAVA/접근 제어자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md"
+                "file": "JAVA/접근 제어자.md"
               }
             }
           }
@@ -147,28 +147,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "135ec9e1a92d862f",
+  "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
-    "Spring/스프링 컨테이너.md",
+    "JAVA/추상화.md",
+    "JAVA/캡슐화.md",
     "JAVA/SOLID.md",
-    "Spring/의존관계 주입(DI).md",
+    "Spring/스프링 컨테이너.md",
     "Spring/스프링의 개념, 컨셉.md",
+    "Spring/의존관계 주입(DI).md",
+    "Spring/제어의 역전(IoC).md",
     "@Bean.md",
+    "@Configuration.md",
     "JAVA/접근 제어자.md",
     "JAVA/상속.md",
     "JAVA/메서드 오버라이딩.md",
     "Template/{{Title}}.md",
-    "Spring/제어의 역전(IoC).md",
-    "@Configuration.md",
     "서비스 로케이터 패턴(Service Locator Pattern).md",
     "스프링 빈.md",
     "이벤트 기반 프로그래밍(Event-driven Programming).md",
-    "JAVA/캡슐화.md",
     "JAVA/객체 지향.md",
     "JAVA/다형성.md",
     "JAVA/메소드 오버로딩.md",
     "JAVA/자바 빈 규약.md",
-    "JAVA/추상화.md",
     "IoC.md",
     "getter/setter.md",
     "getter",
