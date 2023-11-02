@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/다형성.md",
+                "file": "Template/{{Title}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/다형성.md",
+                "file": "Template/{{Title}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/다형성.md",
+                "file": "Template/{{Title}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/다형성.md"
+                "file": "Template/{{Title}}.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
+    "JAVA/다형성.md",
     "JAVA/메서드 오버라이딩.md",
     "JAVA/접근 제어자.md",
     "Spring/스프링의 개념, 컨셉.md",
@@ -156,7 +157,6 @@
     "JAVA/자바 빈 규약.md",
     "JAVA/상속.md",
     "JAVA/메소드 오버로딩.md",
-    "JAVA/다형성.md",
     "JAVA/객체 지향.md",
     "getter/setter.md",
     "getter",
