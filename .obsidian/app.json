@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false
 }
