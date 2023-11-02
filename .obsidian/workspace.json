@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/{{Title}}.md",
+                "file": "JAVA/캡슐화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/{{Title}}.md",
+                "file": "JAVA/캡슐화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/{{Title}}.md",
+                "file": "JAVA/캡슐화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/{{Title}}.md"
+                "file": "JAVA/캡슐화.md"
               }
             }
           }
@@ -143,22 +143,23 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
+    "Spring/스프링의 개념, 컨셉.md",
+    "JAVA/객체 지향.md",
+    "JAVA/다형성.md",
     "JAVA/메서드 오버라이딩.md",
     "JAVA/메소드 오버로딩.md",
     "JAVA/상속.md",
-    "Spring/스프링의 개념, 컨셉.md",
+    "JAVA/자바 빈 규약.md",
     "JAVA/접근 제어자.md",
+    "JAVA/추상화.md",
     "JAVA/캡슐화.md",
     "Template/{{Title}}.md",
-    "JAVA/다형성.md",
-    "JAVA/추상화.md",
-    "JAVA/자바 빈 규약.md",
-    "JAVA/객체 지향.md",
     "getter/setter.md",
     "getter",
     "JAVA",
