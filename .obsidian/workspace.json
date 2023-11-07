@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md",
+                "file": "Spring/스프링 컨테이너.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md",
+                "file": "Spring/스프링 컨테이너.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md",
+                "file": "Spring/스프링 컨테이너.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/의존관계 주입(DI).md"
+                "file": "Spring/스프링 컨테이너.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
     "Spring/스프링의 개념, 컨셉.md",
+    "Spring/제어의 역전(IoC).md",
     "Spring/의존관계 주입(DI).md",
     "JAVA/접근 제어자.md",
     "JAVA/추상화.md",
     "JAVA/캡슐화.md",
     "JAVA/SOLID.md",
     "Spring/스프링 컨테이너.md",
-    "Spring/제어의 역전(IoC).md",
     "@Bean.md",
     "@Configuration.md",
     "JAVA/상속.md",
