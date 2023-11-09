@@ -11,7 +11,7 @@
 ```JAVA
 // 매핑 정보를 담고 있을 클래스
 @MappedSuperclass
-public class BaseEntity {
+public abstract class BaseEntity {
 
 	private String createdBy;
 	private LocalDateTime createdAt;

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/@MappedSuperclass.md",
+                "file": "Spring/JPA/상속관계 매핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/@MappedSuperclass.md",
+                "file": "Spring/JPA/상속관계 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/@MappedSuperclass.md",
+                "file": "Spring/JPA/상속관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/@MappedSuperclass.md"
+                "file": "Spring/JPA/상속관계 매핑.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
+    "Spring/JPA/조인 전략.md",
+    "Spring/JPA/@MappedSuperclass.md",
     "Spring/JPA/구현 클래스 테이블 전략.md",
     "Spring/JPA/단일 테이블 전략.md",
-    "Spring/JPA/조인 전략.md",
     "Spring/JPA/상속관계 매핑.md",
-    "Spring/JPA/@MappedSuperclass.md",
     "InheritanceType.TABLE_PER_CLASS.md",
     "InheritanceType.JOINED.md",
     "InheritanceType.SINGLE_TABLE.md",
