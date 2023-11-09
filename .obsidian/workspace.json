@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 컨테이너.md",
+                "file": "Spring/JPA/@MappedSuperclass.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 컨테이너.md",
+                "file": "Spring/JPA/@MappedSuperclass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 컨테이너.md",
+                "file": "Spring/JPA/@MappedSuperclass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 컨테이너.md"
+                "file": "Spring/JPA/@MappedSuperclass.md"
               }
             }
           }
@@ -149,6 +149,24 @@
   },
   "active": "1a43ecff54c2c899",
   "lastOpenFiles": [
+    "Spring/JPA/구현 클래스 테이블 전략.md",
+    "Spring/JPA/단일 테이블 전략.md",
+    "Spring/JPA/조인 전략.md",
+    "Spring/JPA/상속관계 매핑.md",
+    "Spring/JPA/@MappedSuperclass.md",
+    "InheritanceType.TABLE_PER_CLASS.md",
+    "InheritanceType.JOINED.md",
+    "InheritanceType.SINGLE_TABLE.md",
+    "SINGLE_TABLE.md",
+    "TABLE_PER_CLASS.md",
+    "JOINED.md",
+    "슈퍼타입/서브타입.md",
+    "슈퍼타입",
+    "슈퍼타입, 서브타입.md",
+    "부모클래스와 자식클래스.md",
+    "JAVA/다형성.md",
+    "Spring/스프링 컨테이너.md",
+    "Spring/JPA",
     "Spring/스프링의 개념, 컨셉.md",
     "Spring/제어의 역전(IoC).md",
     "Spring/의존관계 주입(DI).md",
@@ -156,29 +174,13 @@
     "JAVA/추상화.md",
     "JAVA/캡슐화.md",
     "JAVA/SOLID.md",
-    "Spring/스프링 컨테이너.md",
     "@Bean.md",
     "@Configuration.md",
     "JAVA/상속.md",
-    "JAVA/메서드 오버라이딩.md",
-    "Template/{{Title}}.md",
-    "서비스 로케이터 패턴(Service Locator Pattern).md",
-    "스프링 빈.md",
-    "이벤트 기반 프로그래밍(Event-driven Programming).md",
-    "JAVA/객체 지향.md",
-    "JAVA/다형성.md",
-    "JAVA/메소드 오버로딩.md",
-    "JAVA/자바 빈 규약.md",
-    "IoC.md",
-    "getter/setter.md",
     "getter",
     "JAVA",
-    "무제 파일.md",
     "Template",
     "Spring",
-    "옵시디언 링크 테스트/무제 파일.md",
-    "README.md",
-    "링크 파일.md",
     "옵시디언 링크 테스트"
   ]
 }
