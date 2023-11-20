@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/@Autowired.md",
+                "file": "Spring/스프링 컨테이너.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/@Autowired.md",
+                "file": "Spring/스프링 컨테이너.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/@Autowired.md",
+                "file": "Spring/스프링 컨테이너.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/@Autowired.md"
+                "file": "Spring/스프링 컨테이너.md"
               }
             }
           }
@@ -150,13 +150,14 @@
   "active": "549c639e6eeeeed4",
   "lastOpenFiles": [
     "Spring/@ComponentScan.md",
-    "슈퍼타입, 서브타입.md",
     "Spring/JPA/상속관계 매핑.md",
+    "스프링 빈.md",
+    "Spring/@Autowired.md",
+    "슈퍼타입, 서브타입.md",
     "Spring/JPA/조인 전략.md",
     "Spring/JPA/단일 테이블 전략.md",
     "JAVA/메소드 오버로딩.md",
     "JAVA/메서드 오버라이딩.md",
-    "Spring/@Autowired.md",
     "@Bean.md",
     "Spring/@Configuration.md",
     "Spring/JPA/구현 클래스 테이블 전략.md",
@@ -172,7 +173,6 @@
     "CS/디자인 패턴",
     "CS",
     "스프링 MVC.md",
-    "스프링 빈.md",
     "서비스 로케이터 패턴(Service Locator Pattern).md",
     "부모클래스와 자식클래스.md",
     "@SpringBootApplication.md",

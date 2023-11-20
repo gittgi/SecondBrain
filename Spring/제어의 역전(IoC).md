@@ -4,9 +4,9 @@
 - 메인 프로그램이 보유한 객체와 객체의 의존성에 대한 제어를 컨테이너나 프레임워크로 옮기는 것을 제어의 역전(Inversion of Control)이라고 부름
 
 - 제어의 역전이 구현된 예
-	- [의존관계 주입(DI)](의존관계%20주입(DI).md)
-	- [서비스 로케이터 패턴(Service Locator Pattern)](서비스%20로케이터%20패턴(Service%20Locator%20Pattern).md)
-	- [이벤트 기반 프로그래밍(Event-driven Programming)](이벤트%20기반%20프로그래밍(Event-driven%20Programming).md)
+	- [의존관계 주입(DI)](DI)).md)
+	- [서비스 로케이터 패턴(Service Locator Pattern)](Service%20Locator%20Pattern)).md)
+	- [이벤트 기반 프로그래밍(Event-driven Programming)](Event-driven%20Programming)).md)
 
 
 
