@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a43ecff54c2c899",
+            "id": "d1773b323d9a34e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md",
+                "file": "싱글톤 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md",
+                "file": "싱글톤 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md",
+                "file": "싱글톤 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md"
+                "file": "싱글톤 패턴.md"
               }
             }
           }
@@ -147,13 +147,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a43ecff54c2c899",
+  "active": "d1773b323d9a34e9",
   "lastOpenFiles": [
+    "안티패턴.md",
+    "싱글톤 패턴.md",
+    "스프링 빈.md",
+    "Spring/스프링 컨테이너.md",
+    "@Bean.md",
+    "Spring/@Configuration.md",
+    "Spring/JPA/상속관계 매핑.md",
     "Spring/JPA/조인 전략.md",
     "Spring/JPA/@MappedSuperclass.md",
     "Spring/JPA/구현 클래스 테이블 전략.md",
     "Spring/JPA/단일 테이블 전략.md",
-    "Spring/JPA/상속관계 매핑.md",
     "InheritanceType.TABLE_PER_CLASS.md",
     "InheritanceType.JOINED.md",
     "InheritanceType.SINGLE_TABLE.md",
@@ -165,18 +171,12 @@
     "슈퍼타입, 서브타입.md",
     "부모클래스와 자식클래스.md",
     "JAVA/다형성.md",
-    "Spring/스프링 컨테이너.md",
     "Spring/JPA",
     "Spring/스프링의 개념, 컨셉.md",
     "Spring/제어의 역전(IoC).md",
     "Spring/의존관계 주입(DI).md",
     "JAVA/접근 제어자.md",
     "JAVA/추상화.md",
-    "JAVA/캡슐화.md",
-    "JAVA/SOLID.md",
-    "@Bean.md",
-    "@Configuration.md",
-    "JAVA/상속.md",
     "getter",
     "JAVA",
     "Template",
