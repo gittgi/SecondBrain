@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "CS/제어의 역전.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "CS/제어의 역전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "CS/제어의 역전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/SOLID.md"
+                "file": "CS/제어의 역전.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ea00790175d92c4",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
+    "Spring/의존관계 주입.md",
+    "CS/제어의 역전.md",
+    "JAVA/SOLID.md",
     "Spring/JPA/상속관계 매핑.md",
     "Spring/JPA/구현 클래스 테이블 전략.md",
-    "JAVA/SOLID.md",
-    "CS/디자인 패턴/제어의 역전.md",
     "Event-driven Programming.md",
     "Service Locator Pattern.md",
-    "CS/디자인 패턴/의존관계 주입.md",
     "Spring/스프링의 개념, 컨셉.md",
     "무제 파일.canvas",
     "CS/디자인 패턴/싱글톤 패턴.md",
