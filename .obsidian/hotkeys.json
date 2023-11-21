@@ -22,5 +22,13 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-link-converter:convert-md-to-wikis-in-active-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }

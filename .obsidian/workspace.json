@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md",
-                "mode": "preview",
+                "file": "JAVA/SOLID.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md",
+                "file": "JAVA/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md",
+                "file": "JAVA/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/JPA/상속관계 매핑.md"
+                "file": "JAVA/SOLID.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "7ea00790175d92c4",
   "lastOpenFiles": [
+    "Spring/JPA/상속관계 매핑.md",
     "Spring/JPA/구현 클래스 테이블 전략.md",
     "JAVA/SOLID.md",
     "CS/디자인 패턴/제어의 역전.md",
@@ -164,7 +165,6 @@
     "Spring/@ComponentScan.md",
     "Spring/@Configuration.md",
     "Spring/JPA/조인 전략.md",
-    "Spring/JPA/상속관계 매핑.md",
     "Spring/JPA/단일 테이블 전략.md",
     "Service Locator Pattern)](Service Locator Pattern.md",
     "Spring/JPA/@MappedSuperclass.md",
