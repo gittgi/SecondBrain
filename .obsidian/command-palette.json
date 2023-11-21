@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "obsidian-git:commit",
+    "obsidian-git:push2",
+    "obsidian-link-converter:convert-wikis-to-md-in-vault",
+    "obsidian-link-converter:convert-mdlinks-to-wiki-in-vault"
+  ]
+}

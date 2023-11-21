@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/디자인 패턴/제어의 역전.md",
-                "mode": "source",
+                "file": "Spring/JPA/상속관계 매핑.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/디자인 패턴/제어의 역전.md",
+                "file": "Spring/JPA/상속관계 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/디자인 패턴/제어의 역전.md",
+                "file": "Spring/JPA/상속관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/디자인 패턴/제어의 역전.md"
+                "file": "Spring/JPA/상속관계 매핑.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "7ea00790175d92c4",
   "lastOpenFiles": [
-    "Event-driven Programming.md",
+    "Spring/JPA/구현 클래스 테이블 전략.md",
+    "JAVA/SOLID.md",
     "CS/디자인 패턴/제어의 역전.md",
+    "Event-driven Programming.md",
     "Service Locator Pattern.md",
     "CS/디자인 패턴/의존관계 주입.md",
     "Spring/스프링의 개념, 컨셉.md",
@@ -157,7 +159,6 @@
     "CS/디자인 패턴/싱글톤 패턴.md",
     "2023-11-21.md",
     "Spring/@Autowired.md",
-    "JAVA/SOLID.md",
     "SpringBoot.md",
     "Spring/스프링 컨테이너.md",
     "Spring/@ComponentScan.md",
@@ -165,7 +166,6 @@
     "Spring/JPA/조인 전략.md",
     "Spring/JPA/상속관계 매핑.md",
     "Spring/JPA/단일 테이블 전략.md",
-    "Spring/JPA/구현 클래스 테이블 전략.md",
     "Service Locator Pattern)](Service Locator Pattern.md",
     "Spring/JPA/@MappedSuperclass.md",
     "JAVA/메소드 오버로딩.md",

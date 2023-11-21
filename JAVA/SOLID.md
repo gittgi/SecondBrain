@@ -11,12 +11,13 @@
 		- 다형성을 활용하는 것으로 가능
 			- 같은 인터페이스를 구현한 클래스들을 서로 바꿔끼는 것으로 기능을 **확장**
 			- 동시에 해당 구현체 클래스들을 호출하는 부분에는 구현체가 아닌 인터페이스를 기준으로 코드를 작성하여, 구현체가 변경되더라도 코드 자체를 수정 혹은 **변경**하지 않아도 되도록 설계하라는 것
-			```JAVA
-			public class MemberService { 
-				// private MemberRepository memberRepository = new MemoryMemberRepository(); // 기존 레포지토리
-				private MemberRepository memberRepository = new JdbcMemberRepository(); // 새 레포지토리로 변경 }
+```JAVA
+public class MemberService { 
+	// private MemberRepository memberRepository = new MemoryMemberRepository(); // 기존 레포지토리
+	private MemberRepository memberRepository = new JdbcMemberRepository(); // 새 레포지토리로 변경 
+	}
 ```
-			- 다만 이 경우에도 불가피한 코드 변경(주석 처리 및 새 코드 작성)이 요구됨 -> 따라서 객체를 생성하고, 연관관계를 맺어주는 별도의 조립, 설정자가 필요 ([의존관계 주입](../Spring/의존관계%20주입.md))
+- 다만 이 경우에도 불가피한 코드 변경(주석 처리 및 새 코드 작성)이 요구됨 -> 따라서 객체를 생성하고, 연관관계를 맺어주는 별도의 조립, 설정자가 필요 ([의존관계 주입](../Spring/의존관계%20주입.md))
 
 - **Liskov Substitution Principle (LSP, 리스코프 치환 원칙)**
 	- 프로그램의 객체는 프로그램의 정확성을 깨트리지 않으면서 하위 타입의 인스턴스로 바꿀 수 있어야 함
