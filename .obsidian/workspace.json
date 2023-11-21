@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a38e88ead1209dae",
+        "id": "596880e64042dd86",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea00790175d92c4",
+            "id": "bc0f7cfa56ebe7ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/@Autowired.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "AnnotationCon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/@Autowired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/@Autowired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring/@Autowired.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,34 +139,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ea00790175d92c4",
+  "active": "bc0f7cfa56ebe7ce",
   "lastOpenFiles": [
-    "Spring/@ComponentScan.md",
-    "Spring/@Autowired.md",
-    "JAVA/Lombok.md",
-    "Spring/의존관계 자동 주입.md",
-    "@RequiredArgsConstructor.md",
-    "StackOverFlowError.md",
-    "순환 참조.md",
-    "Slf4j.md",
-    "어노테이션.md",
     "toString.md",
-    "Spring/스프링 컨테이너.md",
-    "Spring/@Configuration.md",
-    "Spring/의존관계 주입.md",
-    "NullPointException.md",
-    "@Nullable.md",
-    "Optional.md",
-    "final.md",
-    "JAVA/SOLID.md",
-    "JAVA/캡슐화.md",
-    "JAVA/접근 제어자.md",
-    "JAVA/메서드 오버라이딩.md",
-    "@Service.md",
+    "StackOverFlowError.md",
     "SpringBoot.md",
+    "Slf4j.md",
+    "Service Locator Pattern.md",
+    "Optional.md",
+    "NullPointException.md",
+    "final.md",
+    "Event-driven Programming.md",
+    "DataSource.md",
+    "CGLIB.md",
+    "AspectJ.md",
+    "어노테이션.md",
+    "안티패턴.md",
+    "스프링 MVC.md",
     "스프링 빈.md",
-    "스프링 데이터.md",
-    "CS/제어의 역전.md",
+    "슈퍼타입, 서브타입.md",
+    "순환 참조.md",
+    "부모클래스와 자식클래스.md",
+    "@SpringBootApplication.md",
+    "@Service.md",
+    "@Repository.md",
+    "@Nullable.md",
+    "@Controller.md",
+    "@Component.md",
+    "@Bean.md",
     "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
