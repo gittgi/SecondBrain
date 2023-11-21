@@ -11,8 +11,12 @@
             "id": "bc0f7cfa56ebe7ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/의존관계 자동 주입.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/의존관계 자동 주입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/의존관계 자동 주입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/의존관계 자동 주입.md"
+              }
             }
           }
         ]
@@ -141,6 +149,8 @@
   },
   "active": "bc0f7cfa56ebe7ce",
   "lastOpenFiles": [
+    "Spring/@ComponentScan.md",
+    "Spring/@Configuration.md",
     "toString.md",
     "StackOverFlowError.md",
     "SpringBoot.md",
@@ -165,8 +175,6 @@
     "@Repository.md",
     "@Nullable.md",
     "@Controller.md",
-    "@Component.md",
-    "@Bean.md",
     "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
