@@ -146,11 +146,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c0c2b423d7b95ad",
+  "active": "7ea00790175d92c4",
   "lastOpenFiles": [
+    "Event-driven Programming.md",
+    "CS/디자인 패턴/제어의 역전.md",
+    "Service Locator Pattern.md",
     "CS/디자인 패턴/의존관계 주입.md",
     "Spring/스프링의 개념, 컨셉.md",
-    "CS/디자인 패턴/제어의 역전.md",
     "무제 파일.canvas",
     "CS/디자인 패턴/싱글톤 패턴.md",
     "2023-11-21.md",
@@ -164,7 +166,6 @@
     "Spring/JPA/상속관계 매핑.md",
     "Spring/JPA/단일 테이블 전략.md",
     "Spring/JPA/구현 클래스 테이블 전략.md",
-    "Service Locator Pattern.md",
     "Service Locator Pattern)](Service Locator Pattern.md",
     "Spring/JPA/@MappedSuperclass.md",
     "JAVA/메소드 오버로딩.md",
