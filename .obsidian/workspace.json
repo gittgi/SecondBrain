@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/제어의 역전.md",
+                "file": "Spring/스프링의 개념, 컨셉.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/제어의 역전.md",
+                "file": "Spring/스프링의 개념, 컨셉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/제어의 역전.md",
+                "file": "Spring/스프링의 개념, 컨셉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/제어의 역전.md"
+                "file": "Spring/스프링의 개념, 컨셉.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,14 +148,14 @@
   },
   "active": "7ea00790175d92c4",
   "lastOpenFiles": [
+    "CS/디자인 패턴/의존관계 주입.md",
+    "CS/제어의 역전.md",
+    "무제 파일.canvas",
     "CS/디자인 패턴/싱글톤 패턴.md",
     "2023-11-21.md",
-    "무제 파일.canvas",
-    "CS/제어의 역전.md",
     "Spring/@Autowired.md",
     "JAVA/SOLID.md",
     "SpringBoot.md",
-    "Spring/의존관계 주입.md",
     "Spring/스프링 컨테이너.md",
     "Spring/@ComponentScan.md",
     "Spring/스프링의 개념, 컨셉.md",
