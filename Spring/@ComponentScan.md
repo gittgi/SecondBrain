@@ -3,7 +3,7 @@
 - [@Configuration](@Configuration.md) 의 설정정보를 통해 [스프링 빈](../스프링%20빈.md)을 등록할 수 있지만, 일일이 config 파일에 의존관계를 직접 세팅하는 일을 줄이기 위해서 컴포넌트 스캔을 통해 자동으로 스프링 빈을 등록하는 기능이 제공됨
 - @ComponentScan을 설정 클래스에 달면, [@Component](../@Component.md) 어노테이션이 달린([@Configuration](@Configuration.md), [@Repository](../@Repository.md) 등 @Component 를 포함하는 클래스들도) 클래스들을 자동으로 스캔해서 스프링 빈으로 등록 
 
-- 이때 빈 등록이 자동으로 이루어지기 때문에, [의존관계 주입](의존관계%20주입.md) 을 설정해줄 수 있는 기능이 필요한데, 이는 [@Autowired](@Autowired.md) 를 사용해서 구현할 수 있다.
+- 이때 빈 등록이 자동으로 이루어지기 때문에, [의존관계 주입](의존관계%20주입.md) 을 설정해줄 수 있는 기능이 필요한데, 이는 [@Autowired](@Autowired.md) 를 사용해서 구현할 수 있다. -> [의존관계 자동 주입](의존관계%20자동%20주입.md)
 
 ## 예시 코드
 ```java

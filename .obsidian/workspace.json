@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "Spring/@Autowired.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "Spring/@Autowired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/SOLID.md",
+                "file": "Spring/@Autowired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/SOLID.md"
+                "file": "Spring/@Autowired.md"
               }
             }
           }
@@ -133,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +150,24 @@
   },
   "active": "7ea00790175d92c4",
   "lastOpenFiles": [
+    "Spring/@ComponentScan.md",
+    "Spring/@Autowired.md",
+    "JAVA/Lombok.md",
+    "Spring/의존관계 자동 주입.md",
+    "@RequiredArgsConstructor.md",
+    "StackOverFlowError.md",
+    "순환 참조.md",
+    "Slf4j.md",
+    "어노테이션.md",
+    "toString.md",
+    "Spring/스프링 컨테이너.md",
+    "Spring/@Configuration.md",
+    "Spring/의존관계 주입.md",
+    "NullPointException.md",
+    "@Nullable.md",
+    "Optional.md",
+    "final.md",
+    "JAVA/SOLID.md",
     "JAVA/캡슐화.md",
     "JAVA/접근 제어자.md",
     "JAVA/메서드 오버라이딩.md",
@@ -156,25 +176,7 @@
     "스프링 빈.md",
     "스프링 데이터.md",
     "CS/제어의 역전.md",
-    "Spring/의존관계 주입.md",
-    "JAVA/SOLID.md",
-    "Spring/JPA/상속관계 매핑.md",
-    "Spring/JPA/구현 클래스 테이블 전략.md",
-    "Event-driven Programming.md",
-    "Service Locator Pattern.md",
-    "Spring/스프링의 개념, 컨셉.md",
     "무제 파일.canvas",
-    "CS/디자인 패턴/싱글톤 패턴.md",
-    "2023-11-21.md",
-    "Spring/@Autowired.md",
-    "Spring/스프링 컨테이너.md",
-    "Spring/@ComponentScan.md",
-    "Spring/@Configuration.md",
-    "Spring/JPA/조인 전략.md",
-    "Spring/JPA/단일 테이블 전략.md",
-    "Service Locator Pattern)](Service Locator Pattern.md",
-    "Spring/JPA/@MappedSuperclass.md",
-    "JAVA/메소드 오버로딩.md",
     "CS/디자인 패턴",
     "CS",
     "슈퍼타입",
