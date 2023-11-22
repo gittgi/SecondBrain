@@ -11,11 +11,40 @@
             "id": "75c4101ea4024e90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTTP header.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c3f15f74d5c3500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df72d4802c11df90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Server.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +149,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Server.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +172,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75c4101ea4024e90",
+  "active": "df72d4802c11df90",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "Web Server.md",
+    "HTTP header.md",
+    "CS/Web/HTTP staus code.md",
+    "CS/Web/HTTP.md",
+    "HTTP body.md",
+    "CS/Web",
+    "CS/무제 파일.md",
+    "HTTP method.md",
+    "OSI 7계층.md",
     "JAVA/상속.md",
     "JAVA/객체 지향.md",
     "JAVA/접근 제어자.md",
@@ -155,17 +199,8 @@
     "JAVA/추상화.md",
     "Spring/빈 스코프.md",
     "Spring/빈 생명주기.md",
-    "HTTP.md",
     "Spring/@Configuration.md",
     "JAVA/캡슐화.md",
-    "Spring/스프링 빈.md",
-    "CS/제어의 역전.md",
-    "CS/디자인 패턴/싱글톤 패턴.md",
-    "@Service.md",
-    "웹 소켓.md",
-    "세션.md",
-    "session.md",
-    "의존관계 조회.md",
     "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
