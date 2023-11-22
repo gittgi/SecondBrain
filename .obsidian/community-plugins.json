@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-link-converter",
-  "templater-obsidian"
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian"
 ]
