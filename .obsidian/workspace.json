@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "025f59928f27ecdf",
+        "id": "032f43fd388ce056",
         "type": "tabs",
         "children": [
           {
-            "id": "e638985f9108104f",
+            "id": "75c4101ea4024e90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/빈 스코프.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/빈 스코프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/빈 스코프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,18 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring/빈 스코프.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,20 +138,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e638985f9108104f",
+  "active": "75c4101ea4024e90",
   "lastOpenFiles": [
-    "Spring/빈 생명주기.md",
-    "Spring/@Configuration.md",
-    "JAVA/캡슐화.md",
-    "JAVA/추상화.md",
     "JAVA/상속.md",
     "JAVA/객체 지향.md",
-    "JAVA/다형성.md",
-    "JAVA/메서드 오버라이딩.md",
-    "JAVA/메소드 오버로딩.md",
     "JAVA/접근 제어자.md",
+    "Spring/의존관계 자동 주입.md",
+    "Spring/@Autowired.md",
+    "Spring/@ComponentScan.md",
+    "JAVA/메서드 오버라이딩.md",
+    "JAVA/다형성.md",
+    "JAVA/메소드 오버로딩.md",
     "JAVA/자바 빈 규약.md",
+    "JAVA/Lombok.md",
+    "@SpringBootApplication.md",
+    "JAVA/추상화.md",
     "Spring/빈 스코프.md",
+    "Spring/빈 생명주기.md",
+    "HTTP.md",
+    "Spring/@Configuration.md",
+    "JAVA/캡슐화.md",
     "Spring/스프링 빈.md",
     "CS/제어의 역전.md",
     "CS/디자인 패턴/싱글톤 패턴.md",
@@ -169,14 +165,8 @@
     "웹 소켓.md",
     "세션.md",
     "session.md",
-    "HTTP.md",
     "의존관계 조회.md",
-    "서블릿.md",
     "무제 파일.canvas",
-    "부모클래스와 자식클래스.md",
-    "Spring/스프링의 개념, 컨셉.md",
-    "Service Locator Pattern.md",
-    "Spring/의존관계 주입.md",
     "CS/디자인 패턴",
     "CS",
     "슈퍼타입",
