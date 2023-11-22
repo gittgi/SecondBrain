@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/의존관계 자동 주입.md",
+                "file": "Spring/스프링 빈.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/의존관계 자동 주입.md",
+                "file": "Spring/스프링 빈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/의존관계 자동 주입.md",
+                "file": "Spring/스프링 빈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/의존관계 자동 주입.md"
+                "file": "Spring/스프링 빈.md"
               }
             }
           }
@@ -147,8 +147,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc0f7cfa56ebe7ce",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
+    "스프링 MVC.md",
+    "Spring/스프링 빈.md",
+    "Spring/스프링 컨테이너.md",
+    "@Controller.md",
+    "@Bean.md",
+    "@Component.md",
+    "@Service.md",
+    "Spring/의존관계 주입.md",
+    "Spring/스프링의 개념, 컨셉.md",
+    "Spring/의존관계 자동 주입.md",
     "Spring/@ComponentScan.md",
     "Spring/@Configuration.md",
     "toString.md",
@@ -165,16 +175,6 @@
     "AspectJ.md",
     "어노테이션.md",
     "안티패턴.md",
-    "스프링 MVC.md",
-    "스프링 빈.md",
-    "슈퍼타입, 서브타입.md",
-    "순환 참조.md",
-    "부모클래스와 자식클래스.md",
-    "@SpringBootApplication.md",
-    "@Service.md",
-    "@Repository.md",
-    "@Nullable.md",
-    "@Controller.md",
     "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
