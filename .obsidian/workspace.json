@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "596880e64042dd86",
+        "id": "025f59928f27ecdf",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0f7cfa56ebe7ce",
+            "id": "e638985f9108104f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 빈.md",
+                "file": "Spring/빈 스코프.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 빈.md",
+                "file": "Spring/빈 스코프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 빈.md",
+                "file": "Spring/빈 스코프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 빈.md"
+                "file": "Spring/빈 스코프.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,35 +148,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c0c2b423d7b95ad",
+  "active": "e638985f9108104f",
   "lastOpenFiles": [
-    "스프링 MVC.md",
+    "웹 소켓.md",
+    "Spring/빈 스코프.md",
+    "세션.md",
+    "session.md",
+    "HTTP.md",
+    "의존관계 조회.md",
+    "Spring/빈 생명주기.md",
     "Spring/스프링 빈.md",
+    "서블릿.md",
+    "무제 파일.canvas",
+    "부모클래스와 자식클래스.md",
+    "Spring/스프링의 개념, 컨셉.md",
+    "Service Locator Pattern.md",
+    "CS/제어의 역전.md",
+    "Spring/의존관계 주입.md",
+    "Template/{{Title}}.md",
+    "CGLIB.md",
+    "순환 참조.md",
+    "Spring/@Autowired.md",
+    "Spring/의존관계 자동 주입.md",
+    "스프링 MVC.md",
     "Spring/스프링 컨테이너.md",
     "@Controller.md",
     "@Bean.md",
     "@Component.md",
     "@Service.md",
-    "Spring/의존관계 주입.md",
-    "Spring/스프링의 개념, 컨셉.md",
-    "Spring/의존관계 자동 주입.md",
     "Spring/@ComponentScan.md",
-    "Spring/@Configuration.md",
-    "toString.md",
-    "StackOverFlowError.md",
-    "SpringBoot.md",
-    "Slf4j.md",
-    "Service Locator Pattern.md",
-    "Optional.md",
-    "NullPointException.md",
-    "final.md",
-    "Event-driven Programming.md",
-    "DataSource.md",
-    "CGLIB.md",
-    "AspectJ.md",
-    "어노테이션.md",
-    "안티패턴.md",
-    "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
     "슈퍼타입",
