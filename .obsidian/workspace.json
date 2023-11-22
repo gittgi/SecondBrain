@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web Application Server.md",
+                "file": "CS/Web/Web Application Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web Application Server.md",
+                "file": "CS/Web/Web Application Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web Application Server.md",
+                "file": "CS/Web/Web Application Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web Application Server.md",
+                "file": "CS/Web/Web Application Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Web Application Server.md"
+                "file": "CS/Web/Web Application Server.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e9d14f664a55dcb",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
     "Spring/의존관계 자동 주입.md",
-    "CS/Web Application Server.md",
+    "CS/Web/Web Application Server.md",
     "미완성 문서/@Bean.md",
     "미완성 문서/@Component.md",
     "무제 파일.md",
