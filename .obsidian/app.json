@@ -1,6 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "미완성 문서",
+  "useMarkdownLinks": true
 }

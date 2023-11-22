@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP header.md",
+                "file": "미완성 문서/@Bean.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c3f15f74d5c3500",
+            "id": "1e9d14f664a55dcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "CS/Web Application Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Server.md",
+                "file": "CS/Web Application Server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Server.md",
+                "file": "CS/Web Application Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Server.md",
+                "file": "CS/Web Application Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Server.md"
+                "file": "CS/Web Application Server.md"
               }
             }
           }
@@ -172,22 +172,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df72d4802c11df90",
+  "active": "1e9d14f664a55dcb",
   "lastOpenFiles": [
+    "Spring/의존관계 자동 주입.md",
+    "CS/Web Application Server.md",
+    "미완성 문서/@Bean.md",
+    "미완성 문서/@Component.md",
     "무제 파일.md",
-    "Web Server.md",
-    "HTTP header.md",
+    "미완성 문서",
+    "CS/Web/Web Server.md",
+    "미완성 문서/SSL.md",
+    "미완성 문서/Tomcat.md",
+    "미완성 문서/Nginx.md",
+    "미완성 문서/HTTP header.md",
     "CS/Web/HTTP staus code.md",
     "CS/Web/HTTP.md",
-    "HTTP body.md",
+    "미완성 문서/HTTP body.md",
     "CS/Web",
     "CS/무제 파일.md",
-    "HTTP method.md",
-    "OSI 7계층.md",
+    "미완성 문서/HTTP method.md",
+    "미완성 문서/OSI 7계층.md",
     "JAVA/상속.md",
     "JAVA/객체 지향.md",
     "JAVA/접근 제어자.md",
-    "Spring/의존관계 자동 주입.md",
     "Spring/@Autowired.md",
     "Spring/@ComponentScan.md",
     "JAVA/메서드 오버라이딩.md",
@@ -195,12 +202,6 @@
     "JAVA/메소드 오버로딩.md",
     "JAVA/자바 빈 규약.md",
     "JAVA/Lombok.md",
-    "@SpringBootApplication.md",
-    "JAVA/추상화.md",
-    "Spring/빈 스코프.md",
-    "Spring/빈 생명주기.md",
-    "Spring/@Configuration.md",
-    "JAVA/캡슐화.md",
     "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
@@ -209,7 +210,6 @@
     "getter",
     "JAVA",
     "Template",
-    "Spring",
-    "옵시디언 링크 테스트"
+    "Spring"
   ]
 }
