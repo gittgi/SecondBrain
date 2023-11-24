@@ -1,5 +1,9 @@
 # Web Application Server
 
+```table-of-contents
+```
+
+## Web Application Server (WAS) 란?
 - 정적 컨텐츠에 초첨을 맞춘 [웹 서버](Web%20Server.md) 와는 달리, DB 조회나 다양한 로직 처리를 요구하는 **동적인 컨텐츠**를 제공하기 위해 만들어진 어플리케이션 서버
 - [HTTP](HTTP.md) 를 통해 컴퓨터나 장치에 애플리케이션을 수행해주는 미들웨어(소프트웨어 엔진)
 - **웹 컨테이너(Web Container)** 또는 **[서블릿 컨테이너](서블릿.md) (Servlet Container)** 라고도 불림

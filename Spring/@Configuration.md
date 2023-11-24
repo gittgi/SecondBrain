@@ -1,6 +1,9 @@
 # @Configuration
 
+```table-of-contents
+```
 
+## @Configuration이란?
 - AppConfig를 위한 어노테이션
 - 설정을 구성한다는 뜻으로, [스프링 빈](../미완성%20문서/@Bean.md) 에 등록하기 위한 메서드를 정의하는 설정 클래스에 붙이는 어노테이션
 - 이 config 클래스에서 각 빈에 필요한 의존관계를 주입하고 이를 [스프링 컨테이너](스프링%20컨테이너.md)에 등록할 수 있게 한다.
@@ -59,7 +62,7 @@ public class AppConfig {
 
 
 
-## 바이트코드 조작 ([CGLIB](../미완성%20문서/CGLIB.md))
+## 바이트코드 조작 (CGLIB)
 
 - @configuration 사용시 해당 클래스에서 사용되는 생성자는(위 예시에서 `memberRepository()`) 두번 이상 호출될 수 있는데, 그때마다 `new MemoryMemberRepository()` 와 같이 새로운 객체를 생성하는 것 처럼 보이나 사실은 [싱글톤](../CS/디자인%20패턴/싱글톤%20패턴.md)을 유지하기 위해 바이트 코드 조작이 들어간다.
 - 정확히는 [CGLIB](../미완성%20문서/CGLIB.md) 기술을 이용해서 해당 객체를 상속받는 또다른 객체(예 : `AppConfig$$EnhancerBySpringCGLIB$$asklgns3423`)를 생성하고 이 객체를 스프링 빈으로 등록하는 것

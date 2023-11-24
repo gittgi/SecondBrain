@@ -1,8 +1,7 @@
 # HTTP method
 
-
-
-
+```table-of-contents
+```
 
 
 ## GET

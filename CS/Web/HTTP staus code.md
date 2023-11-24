@@ -1,5 +1,8 @@
 # HTTP staus code
 
+```table-of-contents
+```
+## HTTP status code란?
 클라이언트가 보낸 요청의 처리 상태를 응답에서 알려주는 기능
 
 - 100번대 : 요청이 수신되어 처리중

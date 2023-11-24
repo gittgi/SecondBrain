@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6bc3252b3a5996",
+        "id": "461c7b4dec8443f9",
         "type": "tabs",
         "children": [
           {
-            "id": "e80f3e6db92259d9",
+            "id": "9fc41dc866130a54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Web/서블릿.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web/서블릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web/서블릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Web/서블릿.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,34 +139,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e80f3e6db92259d9",
+  "active": "9fc41dc866130a54",
   "lastOpenFiles": [
-    "CS/Web/Web Application Server.md",
+    "미완성 문서/@Bean.md",
+    "Template/toc 적용.md",
+    "Template/{{Title}}.md",
+    "JAVA/자바 빈 규약.md",
+    "JAVA/상속.md",
+    "JAVA/메소드 오버로딩.md",
+    "CS/Thread.md",
+    "CS/Web/HTTP method.md",
+    "CS/Web/HTTP.md",
+    "CS/디자인 패턴/싱글톤 패턴.md",
     "CS/Web/서블릿.md",
-    "미완성 문서/JSP.md",
-    "Spring/Spring MVC/HttpServletResponse.md",
-    "미완성 문서/HTTP API.md",
-    "미완성 문서/HTTP body.md",
-    "미완성 문서/HTTP header.md",
-    "Spring/Spring MVC/HttpServletRequest.md",
-    "미완성 문서/Jackson.md",
-    "미완성 문서/Cookie.md",
-    "미완성 문서/WebFlux.md",
-    "미완성 문서/toString.md",
-    "미완성 문서/Tomcat.md",
-    "미완성 문서/StackOverFlowError.md",
-    "미완성 문서/SSR.md",
-    "미완성 문서/SSL.md",
-    "미완성 문서/SpringBoot.md",
-    "미완성 문서/Spring MVC.md",
-    "미완성 문서/Slf4j.md",
-    "미완성 문서/Session.md",
-    "미완성 문서/Service Locator Pattern.md",
-    "미완성 문서/OSI 7계층.md",
-    "미완성 문서/Optional.md",
-    "미완성 문서/NullPointException.md",
-    "미완성 문서/Nginx.md",
-    "미완성 문서/JSON.md",
+    "CS/Web/HTTP staus code.md",
+    "CS/Web/Web Application Server.md",
+    "CS/Web/Web Server.md",
+    "CS/제어의 역전.md",
+    "JAVA/다형성.md",
+    "JAVA/객체 지향.md",
+    "JAVA/메서드 오버라이딩.md",
+    "JAVA/접근 제어자.md",
+    "JAVA/추상화.md",
+    "JAVA/캡슐화.md",
+    "JAVA/Lombok.md",
+    "JAVA/SOLID.md",
+    "Spring/JPA/단일 테이블 전략.md",
+    "Spring/JPA/상속관계 매핑.md",
+    "Spring/JPA/조인 전략.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",
