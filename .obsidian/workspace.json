@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "CS/Web/서블릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "httpServ",
+                "query": "서블릿",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "CS/Web/서블릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "CS/Web/서블릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/MVC.md"
+                "file": "CS/Web/서블릿.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "55231278f833a8f5",
   "lastOpenFiles": [
-    "미완성 문서/JSP.md",
     "미완성 문서/MVC.md",
+    "미완성 문서/JSP.md",
     "CS/Web/서블릿.md",
     "Spring/Spring MVC/HttpServletResponse.md",
     "Spring/Spring MVC/HttpServletRequest.md",
