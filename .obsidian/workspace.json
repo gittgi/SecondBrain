@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "379427e472937352",
+        "id": "0a6bc3252b3a5996",
         "type": "tabs",
         "children": [
           {
-            "id": "bf006dad2618a7e2",
+            "id": "e80f3e6db92259d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/HTTP API.md",
+                "file": "미완성 문서/JSP.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Output",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "right": {
     "id": "9cc9c0b11b57cec1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/HTTP API.md",
+                "file": "미완성 문서/JSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/HTTP API.md",
+                "file": "미완성 문서/JSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/HTTP API.md"
+                "file": "미완성 문서/JSP.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf006dad2618a7e2",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
+    "Spring/Spring MVC/HttpServletResponse.md",
+    "CS/Web/서블릿.md",
+    "미완성 문서/HTTP API.md",
     "미완성 문서/HTTP body.md",
     "미완성 문서/HTTP header.md",
-    "Spring/Spring MVC/HttpServletResponse.md",
     "Spring/Spring MVC/HttpServletRequest.md",
     "미완성 문서/Jackson.md",
     "미완성 문서/Cookie.md",
@@ -173,8 +175,6 @@
     "미완성 문서/JSP.md",
     "미완성 문서/JSON.md",
     "미완성 문서/HTTPS.md",
-    "미완성 문서/HTTP API.md",
-    "미완성 문서/HTML.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",

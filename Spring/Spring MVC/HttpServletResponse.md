@@ -110,8 +110,10 @@ public class ResponseJsonServlet extends HttpServlet {
 
 
 - [i] `application/json`의 경우 스펙상 utf-8 형식을 사용하도록 이미 정의되어 있어서, 따로 `charset=utf-8`같은 추가 파라미터가 필요하지도 않고 지원하지 않기 때문에, `application/json` 이라고만 사용해야 함 (`application/json;charset=utf-8`의 경우에는 의미없는 파라미터를 추가한 셈)
-	- `response.getWriter()`를 사용하면 인코딩 정보에 대한 추가 파라미터를 자동으로 추가해버리지만, `response.getOutputStream()`으로 변환해서 출력하면 자동으로 추가하지 않음
+	- `response.getWriter()`를 사용하면 인코딩 정보에 대한 추가 파라미터를 자동으로 추가해버리지만, `response.getOutputStream()`[^1]으로 변환해서 출력하면 자동으로 추가하지 않음
 
 
----
+
 연관문서 : [HttpServletRequest](HttpServletRequest.md)
+
+[^1]: HTTP 응답 받에 데이터를 쓰는 단계를 더 간단하게 구현한 것, HttpServletResponse에서 데이터를 쓸 수 있는 스트림을 얻어 오고, 해당 스트림에 쓰여진 데이터가 HTTP 응답의 바디로 전송됨. 일반적으로 **파일 다운로드** 등에서 생성된 파일을 스트림으로 변환 후 `response.getOutputStream()`로 얻어온 스트림에 쓰면, 해당 응답을 받은 브라우저에서 다운로드 가능
