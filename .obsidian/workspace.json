@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +146,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c0c2b423d7b95ad",
+  "active": "e80f3e6db92259d9",
   "lastOpenFiles": [
     "Spring/Spring MVC/HttpServletResponse.md",
     "CS/Web/서블릿.md",

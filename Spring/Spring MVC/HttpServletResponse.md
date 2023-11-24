@@ -1,6 +1,6 @@
 # HttpServletResponse
 
-- [I] [HTTP](../../CS/Web/HTTP.md) 응답 메세지를 개발자가 직접 생성하는 대신, [서블릿](../../CS/Web/서블릿.md)이 HTTP 응답 메세지를 생성 -> 개발자는 해당 응답 메세지에 들어갈 속성과 내용을 HttpServletResponse를 통해 편리하게 설정 가능
+- [I](../../CS/Web/HTTP.md) 응답 메세지를 개발자가 직접 생성하는 대신, [서블릿](../../CS/Web/서블릿.md)이 HTTP 응답 메세지를 생성 -> 개발자는 해당 응답 메세지에 들어갈 속성과 내용을 HttpServletResponse를 통해 편리하게 설정 가능
  
 ### 역할
 - HTTP 응답 메세지 생성
@@ -84,7 +84,7 @@ public class ResponseHtmlServlet extends HttpServlet {
 
 
 ### JSON 응답
-- [b] [JSON](../../미완성%20문서/JSON.md) 으로 응답하는 경우 content-type은 `application/json`으로 설정
+- [b](../../미완성%20문서/JSON.md) 으로 응답하는 경우 content-type은 `application/json`으로 설정
 - [Jackson](../../미완성%20문서/Jackson.md) 이 제공하는 `objectMapper.writeValueAsString()` 을 사용하면 객체를 JSON 문자열로 쉽게 변경 가능
 ```java
 @WebServlet(name = "responseJsonServlet", urlPatterns = "/response-json")  
