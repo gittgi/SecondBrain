@@ -2,10 +2,11 @@
 
 ```table-of-contents
 ```
-
-- [[HTTP](../../CS/Web/서블릿.md)이 HTTP 응답 메세지를 생성 -> 개발자는 해당 응답 메세지에 들어갈 속성과 내용을 HttpServletResponse를 통해 편리하게 설정 가능
+## HttpServletResponse란?
+- [서블릿](../../CS/Web/서블릿.md)이 HTTP 응답 메세지를 생성 -> 개발자는 해당 응답 메세지에 들어갈 속성과 내용을 HttpServletResponse를 통해 편리하게 설정 가능
  
 ### 역할
+
 - HTTP 응답 메세지 생성
 	- [HTTP 응답 코드](../../CS/Web/HTTP%20staus%20code.md) 지정
 	- [HTTP header](../../미완성%20문서/HTTP%20header.md) 생성
