@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web/서블릿.md",
+                "file": "미완성 문서/MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web/서블릿.md",
+                "file": "미완성 문서/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web/서블릿.md",
+                "file": "미완성 문서/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Web/서블릿.md"
+                "file": "미완성 문서/MVC.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "55231278f833a8f5",
   "lastOpenFiles": [
-    "Spring/Spring MVC/HttpServletResponse.md",
+    "미완성 문서/JSP.md",
+    "미완성 문서/MVC.md",
     "CS/Web/서블릿.md",
+    "Spring/Spring MVC/HttpServletResponse.md",
     "Spring/Spring MVC/HttpServletRequest.md",
     "미완성 문서/@Bean.md",
     "Template/toc 적용.md",
@@ -174,8 +176,6 @@
     "JAVA/추상화.md",
     "JAVA/캡슐화.md",
     "JAVA/Lombok.md",
-    "JAVA/SOLID.md",
-    "Spring/JPA/단일 테이블 전략.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",
