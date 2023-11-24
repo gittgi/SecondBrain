@@ -1,6 +1,6 @@
 # JSP (Java Server Pages)
 
-- [b] JSP란 [HTML](HTML.md) 코드에 JAVA 코드를 넣어서 동적 웹페이지를 생성해주는 웹 어플리케이션 도구
+- [b](HTML.md) 코드에 JAVA 코드를 넣어서 동적 웹페이지를 생성해주는 웹 어플리케이션 도구
 	- JSP 실행시 [서블릿](../CS/Web/서블릿.md)으로 변환되어 [WAS](../CS/Web/Web%20Application%20Server.md)에서 동작
 	- WAS에서 데이터 처리를 거치면, 해당 데이터 + 웹페이지를 클라이언트에 응답
 - [!] JSP와 서블릿은 동적 페이지를 응답하기 위한다는 점에서 동일하지만

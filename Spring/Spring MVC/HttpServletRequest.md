@@ -3,7 +3,7 @@
 ```table-of-contents
 ```
 
-- [[HTTP]] 요청 메세지를 개발자가 직접 파싱해서 사용하는 대신, [서블릿](../../CS/Web/서블릿.md)이 개발자를 대신해서 요청 메세지를 파싱 -> 그 결과를 `HttpServletRequest` 객체에 담아서 제공
+- [[HTTP](../../CS/Web/서블릿.md)이 개발자를 대신해서 요청 메세지를 파싱 -> 그 결과를 `HttpServletRequest` 객체에 담아서 제공
 	- 그 결과로 다음과 같은 **메시지 정보**들을 편리하게 조회 가능
 		- start-line
 			- HTTP 메서드
@@ -107,7 +107,7 @@ public class RequestParamServlet extends HttpServlet {
 ### HTML Form의 쿼리 파라미터 조회 (POST)
 - `content-type: application/x-www-form-urlencoded`
 - 쿼리 파라미터 형식은 동일하지만 (`username=gittgi`) [HTML](../../미완성%20문서/HTML.md) Form 형식으로 전달
-- 쿼리 파라미터 형식이 위의 [[HTTP method|GET]] 방식과 같기 때문에, **조회 메서드 역시 그대로 사용 가능!**
+- 쿼리 파라미터 형식이 위의 [GET](../../CS/Web/HTTP%20method.md) 방식과 같기 때문에, **조회 메서드 역시 그대로 사용 가능!**
 - [*] `request.getParameter()`는 GET 쿼리 파라미터 형식과 HTML Form 형식 둘다 조회 가능
 	
 
@@ -169,7 +169,7 @@ public class RequestBodyJsonServlet extends HttpServlet {
 }
 ```
 
-- 원래는 [[Jackson]], Gson등의 JSON 변환 라이브러리를 추가해야 함
+- 원래는 [Jackson](../../미완성%20문서/Jackson.md), Gson등의 JSON 변환 라이브러리를 추가해야 함
 	- [SpringBoot](../../미완성%20문서/SpringBoot.md)의 [Spring MVC](../../미완성%20문서/Spring%20MVC.md)를 사용하면 기본으로 Jackson 라이브러리(ObjectMapper)를 제공 
 
 

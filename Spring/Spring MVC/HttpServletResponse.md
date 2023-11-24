@@ -3,7 +3,7 @@
 ```table-of-contents
 ```
 
-- [[HTTP]] 응답 메세지를 개발자가 직접 생성하는 대신, [서블릿](../../CS/Web/서블릿.md)이 HTTP 응답 메세지를 생성 -> 개발자는 해당 응답 메세지에 들어갈 속성과 내용을 HttpServletResponse를 통해 편리하게 설정 가능
+- [[HTTP](../../CS/Web/서블릿.md)이 HTTP 응답 메세지를 생성 -> 개발자는 해당 응답 메세지에 들어갈 속성과 내용을 HttpServletResponse를 통해 편리하게 설정 가능
  
 ### 역할
 - HTTP 응답 메세지 생성
