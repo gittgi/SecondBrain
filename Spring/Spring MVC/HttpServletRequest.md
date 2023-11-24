@@ -2,8 +2,9 @@
 
 ```table-of-contents
 ```
+## HttpServletRequest란?
 
-- [[HTTP](../../CS/Web/서블릿.md)이 개발자를 대신해서 요청 메세지를 파싱 -> 그 결과를 `HttpServletRequest` 객체에 담아서 제공
+- [서블릿](../../CS/Web/서블릿.md)이 개발자를 대신해서 요청 메세지를 파싱 -> 그 결과를 `HttpServletRequest` 객체에 담아서 제공
 	- 그 결과로 다음과 같은 **메시지 정보**들을 편리하게 조회 가능
 		- start-line
 			- HTTP 메서드
@@ -20,6 +21,7 @@
 			- 조회 : `request.getAttribute(name)`
 		- **[세션](../../미완성%20문서/Session.md) 관리** 
 			- `request.getSession(create: true)`를 통해 세션 생성
+
 
 ### start-line 및 헤더 조회
 

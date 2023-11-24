@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "461c7b4dec8443f9",
+        "id": "66916cf8c378c8e3",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc41dc866130a54",
+            "id": "55231278f833a8f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Output",
+                "query": "httpServ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,8 +140,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fc41dc866130a54",
+  "active": "55231278f833a8f5",
   "lastOpenFiles": [
+    "Spring/Spring MVC/HttpServletRequest.md",
+    "CS/Web/서블릿.md",
     "미완성 문서/@Bean.md",
     "Template/toc 적용.md",
     "Template/{{Title}}.md",
@@ -151,7 +154,6 @@
     "CS/Web/HTTP method.md",
     "CS/Web/HTTP.md",
     "CS/디자인 패턴/싱글톤 패턴.md",
-    "CS/Web/서블릿.md",
     "CS/Web/HTTP staus code.md",
     "CS/Web/Web Application Server.md",
     "CS/Web/Web Server.md",
@@ -166,7 +168,6 @@
     "JAVA/SOLID.md",
     "Spring/JPA/단일 테이블 전략.md",
     "Spring/JPA/상속관계 매핑.md",
-    "Spring/JPA/조인 전략.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",
