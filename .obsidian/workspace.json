@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "032f43fd388ce056",
+        "id": "379427e472937352",
         "type": "tabs",
         "children": [
           {
-            "id": "1e9d14f664a55dcb",
+            "id": "bf006dad2618a7e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/서블릿.md",
+                "file": "미완성 문서/HTTP API.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AnnotationCon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/서블릿.md",
+                "file": "미완성 문서/HTTP API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/서블릿.md",
+                "file": "미완성 문서/HTTP API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/서블릿.md"
+                "file": "미완성 문서/HTTP API.md"
               }
             }
           }
@@ -147,36 +147,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e9d14f664a55dcb",
+  "active": "bf006dad2618a7e2",
   "lastOpenFiles": [
-    "미완성 문서/Thread.md",
-    "미완성 문서/서블릿.md",
-    "미완성 문서/html.md",
-    "CS/Web/Web Application Server.md",
-    "Spring/의존관계 자동 주입.md",
-    "미완성 문서/@Bean.md",
-    "미완성 문서/@Component.md",
-    "무제 파일.md",
-    "미완성 문서",
-    "CS/Web/Web Server.md",
-    "미완성 문서/SSL.md",
-    "미완성 문서/Tomcat.md",
-    "미완성 문서/Nginx.md",
-    "미완성 문서/HTTP header.md",
-    "CS/Web/HTTP staus code.md",
-    "CS/Web/HTTP.md",
     "미완성 문서/HTTP body.md",
-    "CS/Web",
-    "CS/무제 파일.md",
-    "미완성 문서/HTTP method.md",
+    "미완성 문서/HTTP header.md",
+    "Spring/Spring MVC/HttpServletResponse.md",
+    "Spring/Spring MVC/HttpServletRequest.md",
+    "미완성 문서/Jackson.md",
+    "미완성 문서/Cookie.md",
+    "미완성 문서/WebFlux.md",
+    "미완성 문서/toString.md",
+    "미완성 문서/Tomcat.md",
+    "미완성 문서/StackOverFlowError.md",
+    "미완성 문서/SSR.md",
+    "미완성 문서/SSL.md",
+    "미완성 문서/SpringBoot.md",
+    "미완성 문서/Spring MVC.md",
+    "미완성 문서/Slf4j.md",
+    "미완성 문서/Session.md",
+    "미완성 문서/Service Locator Pattern.md",
     "미완성 문서/OSI 7계층.md",
-    "JAVA/상속.md",
-    "JAVA/객체 지향.md",
-    "JAVA/접근 제어자.md",
-    "Spring/@Autowired.md",
-    "Spring/@ComponentScan.md",
-    "JAVA/메서드 오버라이딩.md",
-    "JAVA/다형성.md",
+    "미완성 문서/Optional.md",
+    "미완성 문서/NullPointException.md",
+    "미완성 문서/Nginx.md",
+    "미완성 문서/JSP.md",
+    "미완성 문서/JSON.md",
+    "미완성 문서/HTTPS.md",
+    "미완성 문서/HTTP API.md",
+    "미완성 문서/HTML.md",
+    "Spring/Spring MVC",
+    "미완성 문서",
+    "CS/Web",
     "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
@@ -184,7 +185,6 @@
     "Spring/JPA",
     "getter",
     "JAVA",
-    "Template",
-    "Spring"
+    "Template"
   ]
 }
