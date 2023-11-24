@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/JSP.md",
+                "file": "CS/Web/서블릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/JSP.md",
+                "file": "CS/Web/서블릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/JSP.md",
+                "file": "CS/Web/서블릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/JSP.md"
+                "file": "CS/Web/서블릿.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +149,10 @@
   },
   "active": "e80f3e6db92259d9",
   "lastOpenFiles": [
-    "Spring/Spring MVC/HttpServletResponse.md",
+    "CS/Web/Web Application Server.md",
     "CS/Web/서블릿.md",
+    "미완성 문서/JSP.md",
+    "Spring/Spring MVC/HttpServletResponse.md",
     "미완성 문서/HTTP API.md",
     "미완성 문서/HTTP body.md",
     "미완성 문서/HTTP header.md",
@@ -171,9 +174,7 @@
     "미완성 문서/Optional.md",
     "미완성 문서/NullPointException.md",
     "미완성 문서/Nginx.md",
-    "미완성 문서/JSP.md",
     "미완성 문서/JSON.md",
-    "미완성 문서/HTTPS.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",
