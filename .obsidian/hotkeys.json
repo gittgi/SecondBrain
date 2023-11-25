@@ -71,7 +71,15 @@
       "key": "L"
     }
   ],
-  "links:editor-convert-all-links-to-mdlinks": [
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "markdown-link-space-encoder:markdown-link-space-encode": [
     {
       "modifiers": [
         "Alt"
