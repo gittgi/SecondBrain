@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "Spring/Spring MVC/스프링 MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "Spring/Spring MVC/스프링 MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "Spring/Spring MVC/스프링 MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/MVC.md"
+                "file": "Spring/Spring MVC/스프링 MVC.md"
               }
             }
           }
@@ -144,40 +144,41 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "f52923a59ef280e2",
   "lastOpenFiles": [
+    "미완성 문서/SpringBoot.md",
+    "Spring/Spring MVC/스프링 MVC.md",
+    "미완성 문서/HttpServlet을 상속 받고, [[서블릿.md",
+    "Spring/Spring MVC/HttpServlet.md",
+    "Spring/Spring MVC/어댑터 패턴.md",
+    "Spring/Spring MVC/HttpServletRequest.md",
+    "Spring/Spring MVC/프론트 컨트롤러.md",
+    "Spring/Spring MVC/MVC.md",
+    "미완성 문서/Controller.md",
+    "CS/Web/서블릿.md",
+    "미완성 문서/Spring MVC.md",
+    "미완성 문서/JSP.md",
+    "미완성 문서/Model.md",
+    "미완성 문서/Service.md",
+    "Spring/@ComponentScan.md",
     "CS/Thread.md",
-    "미완성 문서/MVC.md",
     "CS/Web/Web Application Server.md",
     "CS/Web/HTTP staus code.md",
-    "CS/Web/서블릿.md",
     "미완성 문서/Event-driven Programming.md",
     "미완성 문서/final.md",
     "CS/Web/HTTP method.md",
-    "Spring/Spring MVC/HttpServletRequest.md",
     "Spring/빈 스코프.md",
-    "미완성 문서/스프링 MVC.md",
     "첨부 파일",
-    "미완성 문서/Spring MVC.md",
     "무제 파일.canvas",
     "JAVA/상속.md",
     "미완성 문서/HTTP header.md",
     "CS/Web/HTTP.md",
     "checkbox-styles.png",
     "미완성 문서/JSON.md",
-    "미완성 문서/www.naver.com.md",
-    "미완성 문서/Tomcat.md",
-    "Spring/Spring MVC/HttpServlet.md",
-    "Spring/의존관계 자동 주입.md",
-    "미완성 문서/JSP.md",
-    "Spring/Spring MVC/HttpServletResponse.md",
-    "미완성 문서/@Bean.md",
-    "Template/toc 적용.md",
-    "Template/{{Title}}.md",
-    "JAVA/자바 빈 규약.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",

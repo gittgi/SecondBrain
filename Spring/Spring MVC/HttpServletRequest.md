@@ -172,7 +172,7 @@ public class RequestBodyJsonServlet extends HttpServlet {
 ```
 
 - 원래는 [Jackson](../../미완성%20문서/Jackson.md), Gson등의 JSON 변환 라이브러리를 추가해야 함
-	- [SpringBoot](../../미완성%20문서/SpringBoot.md)의 [스프링 MVC](../../미완성%20문서/스프링%20MVC.md)를 사용하면 기본으로 Jackson 라이브러리(ObjectMapper)를 제공 
+	- [SpringBoot](../../미완성%20문서/SpringBoot.md)의 [스프링 MVC](스프링%20MVC.md)를 사용하면 기본으로 Jackson 라이브러리(ObjectMapper)를 제공 
 
 
 

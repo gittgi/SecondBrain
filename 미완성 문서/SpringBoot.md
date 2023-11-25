@@ -1,3 +1,12 @@
+---
+aliases:
+  - Spring Boot
+  - SpringBoot
+  - 스프링부트
+  - 스프링 부트
+---
+
+
 # SpringBoot
 
 
