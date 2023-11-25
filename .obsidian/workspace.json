@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af3788c99ec279bc",
+        "id": "e12b0b272af173ec",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e8fd0802c88151",
+            "id": "af06a761a48b6be3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CS/Web/서블릿.md",
-                "mode": "source",
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 159.93344726562503,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web/서블릿.md",
+                "file": "JAVA/상속.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web/서블릿.md",
+                "file": "JAVA/상속.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Web/서블릿.md"
+                "file": "JAVA/상속.md"
               }
             }
           }
@@ -133,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
+    "width": 262.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,17 +150,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4e8fd0802c88151",
+  "active": "af06a761a48b6be3",
   "lastOpenFiles": [
-    "미완성 문서/JSON.md",
+    "무제 파일.canvas",
+    "JAVA/상속.md",
     "CS/Web/서블릿.md",
+    "CS/Web/HTTP method.md",
+    "미완성 문서/HTTP header.md",
+    "CS/Web/HTTP.md",
+    "checkbox-styles.png",
+    "미완성 문서/JSON.md",
     "미완성 문서/MVC.md",
     "미완성 문서/www.naver.com.md",
     "CS/Thread.md",
-    "CS/Web/HTTP.md",
     "미완성 문서/Tomcat.md",
     "Spring/Spring MVC/HttpServlet.md",
-    "checkbox-styles.png",
     "Spring/의존관계 자동 주입.md",
     "Spring/빈 스코프.md",
     "미완성 문서/JSP.md",
@@ -167,19 +174,14 @@
     "Template/toc 적용.md",
     "Template/{{Title}}.md",
     "JAVA/자바 빈 규약.md",
-    "JAVA/상속.md",
     "JAVA/메소드 오버로딩.md",
-    "CS/Web/HTTP method.md",
     "CS/디자인 패턴/싱글톤 패턴.md",
     "CS/Web/HTTP staus code.md",
     "CS/Web/Web Application Server.md",
     "CS/Web/Web Server.md",
-    "CS/제어의 역전.md",
-    "JAVA/다형성.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",
-    "무제 파일.canvas",
     "CS/디자인 패턴",
     "CS",
     "슈퍼타입",
