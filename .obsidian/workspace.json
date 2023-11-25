@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e12b0b272af173ec",
+        "id": "2b8573970c0adcff",
         "type": "tabs",
         "children": [
           {
-            "id": "af06a761a48b6be3",
+            "id": "0f67fa2bbd09b8a9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 159.93344726562503,
-                  "zoom": 0
-                }
+                "file": "CS/Web/HTTP staus code.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/상속.md",
+                "file": "CS/Web/HTTP staus code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/상속.md",
+                "file": "CS/Web/HTTP staus code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/상속.md"
+                "file": "CS/Web/HTTP staus code.md"
               }
             }
           }
@@ -150,8 +147,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af06a761a48b6be3",
+  "active": "0f67fa2bbd09b8a9",
   "lastOpenFiles": [
+    "CS/Thread.md",
     "무제 파일.canvas",
     "JAVA/상속.md",
     "CS/Web/서블릿.md",
@@ -162,7 +160,6 @@
     "미완성 문서/JSON.md",
     "미완성 문서/MVC.md",
     "미완성 문서/www.naver.com.md",
-    "CS/Thread.md",
     "미완성 문서/Tomcat.md",
     "Spring/Spring MVC/HttpServlet.md",
     "Spring/의존관계 자동 주입.md",
