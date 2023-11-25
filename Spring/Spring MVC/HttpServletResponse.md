@@ -88,7 +88,7 @@ public class ResponseHtmlServlet extends HttpServlet {
 
 
 ### JSON 응답
-- [b](../../미완성%20문서/JSON.md) 으로 응답하는 경우 content-type은 `application/json`으로 설정
+- [JSON](../../미완성%20문서/JSON.md) 으로 응답하는 경우 content-type은 `application/json`으로 설정
 - [Jackson](../../미완성%20문서/Jackson.md) 이 제공하는 `objectMapper.writeValueAsString()` 을 사용하면 객체를 JSON 문자열로 쉽게 변경 가능
 ```java
 @WebServlet(name = "responseJsonServlet", urlPatterns = "/response-json")  

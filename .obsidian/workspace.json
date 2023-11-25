@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md",
+                "file": "Spring/Spring MVC/HttpServletResponse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md",
+                "file": "Spring/Spring MVC/HttpServletResponse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md",
+                "file": "Spring/Spring MVC/HttpServletResponse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md"
+                "file": "Spring/Spring MVC/HttpServletResponse.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "f52923a59ef280e2",
   "lastOpenFiles": [
-    "미완성 문서/SpringBoot.md",
     "Spring/Spring MVC/스프링 MVC.md",
+    "미완성 문서/SpringBoot.md",
     "미완성 문서/HttpServlet을 상속 받고, [[서블릿.md",
     "Spring/Spring MVC/HttpServlet.md",
     "Spring/Spring MVC/어댑터 패턴.md",
