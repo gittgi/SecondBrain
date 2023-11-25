@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,14 +149,15 @@
   },
   "active": "d4e8fd0802c88151",
   "lastOpenFiles": [
-    "미완성 문서/www.naver.com.md",
+    "미완성 문서/JSON.md",
     "CS/Web/서블릿.md",
+    "미완성 문서/MVC.md",
+    "미완성 문서/www.naver.com.md",
     "CS/Thread.md",
     "CS/Web/HTTP.md",
     "미완성 문서/Tomcat.md",
     "Spring/Spring MVC/HttpServlet.md",
     "checkbox-styles.png",
-    "미완성 문서/MVC.md",
     "Spring/의존관계 자동 주입.md",
     "Spring/빈 스코프.md",
     "미완성 문서/JSP.md",
@@ -176,7 +176,6 @@
     "CS/Web/Web Server.md",
     "CS/제어의 역전.md",
     "JAVA/다형성.md",
-    "JAVA/객체 지향.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",
