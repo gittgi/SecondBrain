@@ -147,13 +147,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c0c2b423d7b95ad",
+  "active": "f52923a59ef280e2",
   "lastOpenFiles": [
-    "첨부 파일",
     "미완성 문서/스프링 MVC.md",
+    "미완성 문서/MVC.md",
+    "첨부 파일",
     "Spring/Spring MVC/HttpServletRequest.md",
     "미완성 문서/Spring MVC.md",
-    "미완성 문서/MVC.md",
     "CS/Web/HTTP staus code.md",
     "CS/Thread.md",
     "무제 파일.canvas",
@@ -185,7 +185,6 @@
     "슈퍼타입",
     "Spring/JPA",
     "getter",
-    "JAVA",
-    "Template"
+    "JAVA"
   ]
 }
