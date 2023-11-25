@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#6e4ce6",
+    "recentlyUsedIcons": [
+      "FarFolderClosed",
+      "FarImages",
+      "FarNewspaper",
+      "FarFolder",
+      "FarFolderOpen"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "미완성 문서": {
+    "iconName": "FarFolderOpen",
+    "inheritanceIcon": "FarFile"
+  },
+  "CS": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "JAVA": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "Spring": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "Spring/JPA": "FarFolder",
+  "Spring/Spring MVC": "FarFolder",
+  "Template": {
+    "iconName": "FarFolderClosed",
+    "inheritanceIcon": "FarNewspaper"
+  },
+  "CS/디자인 패턴": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "CS/Web": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "이미지": {
+    "iconName": "FarImages",
+    "inheritanceIcon": "FarImage"
+  }
+}

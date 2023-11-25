@@ -5,7 +5,6 @@ aliases:
   - Spring MVC
 tags:
   - MVC
-prev: "[어댑터 패턴](어댑터%20패턴.md)"
 ---
 
 # 스프링 MVC
