@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b8573970c0adcff",
+        "id": "dae32821fc3d7561",
         "type": "tabs",
         "children": [
           {
-            "id": "0f67fa2bbd09b8a9",
+            "id": "f52923a59ef280e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web/HTTP staus code.md",
+                "file": "미완성 문서/MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web/HTTP staus code.md",
+                "file": "미완성 문서/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web/HTTP staus code.md",
+                "file": "미완성 문서/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Web/HTTP staus code.md"
+                "file": "미완성 문서/MVC.md"
               }
             }
           }
@@ -147,8 +147,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f67fa2bbd09b8a9",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
+    "첨부 파일",
+    "미완성 문서/스프링 MVC.md",
+    "Spring/Spring MVC/HttpServletRequest.md",
+    "미완성 문서/Spring MVC.md",
+    "미완성 문서/MVC.md",
+    "CS/Web/HTTP staus code.md",
     "CS/Thread.md",
     "무제 파일.canvas",
     "JAVA/상속.md",
@@ -158,7 +164,6 @@
     "CS/Web/HTTP.md",
     "checkbox-styles.png",
     "미완성 문서/JSON.md",
-    "미완성 문서/MVC.md",
     "미완성 문서/www.naver.com.md",
     "미완성 문서/Tomcat.md",
     "Spring/Spring MVC/HttpServlet.md",
@@ -166,16 +171,12 @@
     "Spring/빈 스코프.md",
     "미완성 문서/JSP.md",
     "Spring/Spring MVC/HttpServletResponse.md",
-    "Spring/Spring MVC/HttpServletRequest.md",
     "미완성 문서/@Bean.md",
     "Template/toc 적용.md",
     "Template/{{Title}}.md",
     "JAVA/자바 빈 규약.md",
     "JAVA/메소드 오버로딩.md",
     "CS/디자인 패턴/싱글톤 패턴.md",
-    "CS/Web/HTTP staus code.md",
-    "CS/Web/Web Application Server.md",
-    "CS/Web/Web Server.md",
     "Spring/Spring MVC",
     "미완성 문서",
     "CS/Web",
