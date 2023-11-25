@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "Spring/빈 스코프.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "Spring/빈 스코프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/MVC.md",
+                "file": "Spring/빈 스코프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/MVC.md"
+                "file": "Spring/빈 스코프.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "f52923a59ef280e2",
   "lastOpenFiles": [
-    "미완성 문서/스프링 MVC.md",
     "미완성 문서/MVC.md",
+    "미완성 문서/스프링 MVC.md",
     "첨부 파일",
     "Spring/Spring MVC/HttpServletRequest.md",
     "미완성 문서/Spring MVC.md",
