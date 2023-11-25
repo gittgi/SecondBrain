@@ -1,8 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-link-converter",
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "automatic-table-of-contents",
-  "obsidian-link-embed"
+  "obsidian-link-embed",
+  "links"
 ]

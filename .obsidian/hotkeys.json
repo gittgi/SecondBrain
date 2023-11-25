@@ -70,5 +70,13 @@
       ],
       "key": "L"
     }
+  ],
+  "links:editor-convert-all-links-to-mdlinks": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
   ]
 }
