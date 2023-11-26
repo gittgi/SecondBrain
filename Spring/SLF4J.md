@@ -12,9 +12,11 @@
 	- 스프링 부트 프로젝트 생성시 기본적으로 `spring-boot-starter-logging`가 설정되어 있는데, 이 라이브러리가 SLF4J와 Logback을 채용
 
 ## 로그 선언
-- `private Logger log = logFactory.getLogger(getClass())`
-- `private static final Logger log = LoggerFactory.getLogger(Xxx.class)`
-- `@Slf4j` : [Lombok](../JAVA/Lombok.md)으로 사용 가능, 사용할 클래스 또는 메서드 위에 어노테이션을 달아서 사용
+- 직접 선언
+	- `private Logger log = LoggerFactory.getLogger(getClass())` 또는
+	- `private static final Logger log = LoggerFactory.getLogger(Xxx.class)`
+- 롬복으로 선언
+	- `@Slf4j` : [Lombok](../JAVA/Lombok.md)으로 사용 가능, 사용할 클래스 또는 메서드 위에 어노테이션을 달아서 사용
 
 
 ## 로그 호출
