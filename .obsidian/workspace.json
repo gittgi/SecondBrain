@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring MVC/MVC.md",
+                "file": "Spring/SLF4J.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Spring",
+                "query": "slf4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring MVC/MVC.md",
+                "file": "Spring/SLF4J.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring MVC/MVC.md",
+                "file": "Spring/SLF4J.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring MVC/MVC.md"
+                "file": "Spring/SLF4J.md"
               }
             }
           },
@@ -158,21 +157,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fa8aa2afc79390d",
+  "active": "364151048c8f015e",
   "lastOpenFiles": [
+    "미완성 문서/Tomcat.md",
+    "미완성 문서/toString.md",
+    "Spring/SLF4J.md",
+    "Spring/Spring MVC/@RequestMapping.md",
+    "JAVA/Lombok.md",
     "Spring/Spring MVC/스프링 MVC.md",
     "Spring/Spring MVC/MVC.md",
     "미완성 문서/Model.md",
-    "Spring/Spring MVC/@RequestMapping.md",
     "미완성 문서/WebFlux.md",
-    "미완성 문서/toString.md",
-    "미완성 문서/Tomcat.md",
     "미완성 문서/Thymleaf.md",
     "미완성 문서/StackOverFlowError.md",
     "미완성 문서/SSR.md",
     "미완성 문서/SSL.md",
     "미완성 문서/SpringBoot.md",
-    "미완성 문서/Slf4j.md",
     "미완성 문서/Session.md",
     "미완성 문서/Service Locator Pattern.md",
     "미완성 문서/Service.md",
@@ -185,7 +185,6 @@
     "미완성 문서/HTTPS.md",
     "미완성 문서/HTTP header.md",
     "미완성 문서/HTTP body.md",
-    "미완성 문서/HTTP API.md",
     "무제 파일.canvas",
     "이미지",
     "checkbox-styles.png",
