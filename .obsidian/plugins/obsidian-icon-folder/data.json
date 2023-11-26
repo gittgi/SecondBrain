@@ -42,8 +42,14 @@
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
   },
-  "Spring/JPA": "FarFolder",
-  "Spring/Spring MVC": "FarFolder",
+  "Spring/JPA": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "Spring/Spring MVC": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
   "Template": {
     "iconName": "FarFolderClosed",
     "inheritanceIcon": "FarNewspaper"
