@@ -18,7 +18,7 @@ tags:
 - 스프링 MVC는 [MVC](MVC.md) 패턴부터 시작해서 [프론트 컨트롤러](프론트%20컨트롤러.md) 패턴, [어댑터 패턴](어댑터%20패턴.md)의 구조를 토대로 만들어진 프레임워크
 - 따라서 어댑터 패턴에서 구현한 구조와 방식이 유사하다.
 
-> [!info] [어댑터 패턴](어댑터%20패턴.md)에서의 구조와 Spring MVC 구조 비교
+> [!info] 어댑터 패턴에서의 구조와 Spring MVC 구조 비교
 
 | 어댑터 패턴 구조                     | Spring MVC         |
 | ------------------------------------ | ------------------ |
@@ -33,7 +33,7 @@ tags:
 
 ## DispatcherServlet
 
-> [!Important] 스프링 MVC에서의 [FrontController](프론트%20컨트롤러.md)
+> [!Important] 스프링 MVC에서의 **Front Controller** 
 
 - `DispatcherServlet` 은 부모 클래스에서 [HttpServlet](HttpServlet.md)을 상속 받고, [서블릿](../../CS/Web/서블릿.md)으로 동작한다.
 	- DispatcherServlet -> FrameworkServlet -> HttpServletBean -> HttpServlet
@@ -104,3 +104,4 @@ protected void render(ModelAndView mv, HttpServletRequest request, HttpServletRe
 	- 뷰 리졸버 : `org.springframework.web.servlet.ViewResolver`
 	- 뷰 : `org.springframework.web.servlet.View`
 	- (그러나 스프링 MVC는 오랜시간에 걸쳐서 발전해왔고, 필요한 기능에 맞추어 대부분 다 잘 구현되어 준비되어 있다)
+

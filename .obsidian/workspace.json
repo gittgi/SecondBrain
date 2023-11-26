@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79cc055c50c8f42b",
+        "id": "0ad113d6a222a22e",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd31559ceb76a6c",
+            "id": "364151048c8f015e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md",
+                "file": "Template/toc 적용.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 257.5
   },
   "right": {
     "id": "9cc9c0b11b57cec1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md",
+                "file": "Template/toc 적용.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md",
+                "file": "Template/toc 적용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring MVC/스프링 MVC.md"
+                "file": "Template/toc 적용.md"
               }
             }
           },
@@ -156,12 +156,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcd31559ceb76a6c",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
-    "Spring/Spring MVC/어댑터 패턴.md",
-    "CS/Web/서블릿.md",
+    "미완성 문서/무제 파일.md",
+    "Template/toc 적용.md",
+    "Template/{{Title}}.md",
     "Spring/Spring MVC/MVC.md",
+    "Spring/Spring MVC/HttpServletResponse.md",
+    "Spring/Spring MVC/HttpServletRequest.md",
+    "Spring/Spring MVC/HttpServlet.md",
+    "Spring/Spring MVC/어댑터 패턴.md",
     "Spring/Spring MVC/스프링 MVC.md",
+    "Spring/Spring MVC/프론트 컨트롤러.md",
+    "CS/Web/서블릿.md",
     "CS/Web/HTTP staus code.md",
     "CS/Web/HTTP.md",
     "무제 파일.canvas",
@@ -170,21 +177,14 @@
     "Spring/의존관계 자동 주입.md",
     "Spring/의존관계 주입.md",
     "Spring/스프링 빈.md",
-    "Spring/Spring MVC/프론트 컨트롤러.md",
     "미완성 문서/Model.md",
     "미완성 문서/JSP.md",
-    "Spring/Spring MVC/HttpServletResponse.md",
-    "Spring/Spring MVC/HttpServletRequest.md",
     "Spring/빈 스코프.md",
     "미완성 문서/JSON.md",
     "미완성 문서/HTTP body.md",
     "JAVA/다형성.md",
     "JAVA/객체 지향.md",
     "미완성 문서/Service.md",
-    "미완성 문서/@Bean.md",
-    "미완성 문서/HttpServlet을 상속 받고, [[서블릿.md",
-    "미완성 문서/@Component.md",
-    "미완성 문서/SpringBoot.md",
     "이미지",
     "checkbox-styles.png",
     "Spring/Spring MVC",

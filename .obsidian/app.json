@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "promptDelete": true,
   "showInlineTitle": false,
   "newFileLocation": "folder",
