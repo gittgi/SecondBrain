@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"26f6e6ba0ca3ec6b","x":-340,"y":160,"width":400,"height":400,"type":"file","file":"CS/Web/HTTP.md"},
-		{"id":"79e5a7c54a4f4556","x":-140,"y":-300,"width":400,"height":400,"type":"file","file":"JAVA/상속.md"}
+		{"id":"79e5a7c54a4f4556","type":"file","file":"JAVA/상속.md","x":-360,"y":-300,"width":400,"height":400},
+		{"id":"26f6e6ba0ca3ec6b","type":"file","file":"CS/Web/HTTP.md","x":-360,"y":160,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"4a4dd6886488f2da","fromNode":"79e5a7c54a4f4556","fromSide":"bottom","toNode":"26f6e6ba0ca3ec6b","toSide":"top"}

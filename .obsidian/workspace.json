@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:MVC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "Spring/Spring MVC/스프링 MVC.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -142,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,34 +158,34 @@
   },
   "active": "bcd31559ceb76a6c",
   "lastOpenFiles": [
-    "미완성 문서/Controller.md",
-    "Spring/Spring MVC/프론트 컨트롤러.md",
-    "미완성 문서/Model.md",
-    "미완성 문서/Service.md",
+    "Spring/Spring MVC/어댑터 패턴.md",
+    "CS/Web/서블릿.md",
     "Spring/Spring MVC/MVC.md",
     "Spring/Spring MVC/스프링 MVC.md",
-    "Spring/Spring MVC/어댑터 패턴.md",
+    "CS/Web/HTTP staus code.md",
+    "CS/Web/HTTP.md",
+    "무제 파일.canvas",
+    "미완성 문서/Controller.md",
+    "Spring/@ComponentScan.md",
+    "Spring/의존관계 자동 주입.md",
+    "Spring/의존관계 주입.md",
+    "Spring/스프링 빈.md",
+    "Spring/Spring MVC/프론트 컨트롤러.md",
+    "미완성 문서/Model.md",
+    "미완성 문서/JSP.md",
+    "Spring/Spring MVC/HttpServletResponse.md",
+    "Spring/Spring MVC/HttpServletRequest.md",
+    "Spring/빈 스코프.md",
+    "미완성 문서/JSON.md",
+    "미완성 문서/HTTP body.md",
+    "JAVA/다형성.md",
+    "JAVA/객체 지향.md",
+    "미완성 문서/Service.md",
     "미완성 문서/@Bean.md",
     "미완성 문서/HttpServlet을 상속 받고, [[서블릿.md",
     "미완성 문서/@Component.md",
-    "Spring/Spring MVC/HttpServletResponse.md",
     "미완성 문서/SpringBoot.md",
-    "Spring/Spring MVC/HttpServlet.md",
-    "Spring/Spring MVC/HttpServletRequest.md",
-    "CS/Web/서블릿.md",
-    "미완성 문서/Spring MVC.md",
-    "미완성 문서/JSP.md",
-    "Spring/@ComponentScan.md",
-    "CS/Thread.md",
-    "CS/Web/Web Application Server.md",
-    "CS/Web/HTTP staus code.md",
-    "미완성 문서/Event-driven Programming.md",
-    "미완성 문서/final.md",
-    "CS/Web/HTTP method.md",
-    "Spring/빈 스코프.md",
     "이미지",
-    "무제 파일.canvas",
-    "JAVA/상속.md",
     "checkbox-styles.png",
     "Spring/Spring MVC",
     "미완성 문서",
