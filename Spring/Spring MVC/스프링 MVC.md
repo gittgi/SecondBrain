@@ -5,6 +5,7 @@ aliases:
   - Spring MVC
 tags:
   - MVC
+  - Spring
 ---
 
 # 스프링 MVC

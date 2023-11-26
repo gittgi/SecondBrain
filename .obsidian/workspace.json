@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/Controller.md",
+                "file": "Spring/Spring MVC/스프링 MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/Controller.md",
+                "file": "Spring/Spring MVC/스프링 MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/Controller.md",
+                "file": "Spring/Spring MVC/스프링 MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/Controller.md"
+                "file": "Spring/Spring MVC/스프링 MVC.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "bcd31559ceb76a6c",
   "lastOpenFiles": [
-    "Spring/Spring MVC/프론트 컨트롤러.md",
     "미완성 문서/Controller.md",
+    "Spring/Spring MVC/프론트 컨트롤러.md",
     "미완성 문서/Model.md",
     "미완성 문서/Service.md",
     "Spring/Spring MVC/MVC.md",
