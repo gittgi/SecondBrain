@@ -109,8 +109,8 @@ public class SpringMemberControllerV3 {
 > [!important] 
 > [스프링 부트](../../미완성%20문서/SpringBoot.md) 3.0 이전에는 마지막 slash (`/`)의 유무를 가리지 않았지만(정확히는 마지막 슬래시를 지워버림), 3.0 이후 부터는 마지막 슬래시가 유지되기 때문에 각각 매핑해야 한다.
 > 
-> 3.0 이전 : `/hello-basic `== `/hello-basic/` 
-> 3.0 이후 : `/hello-basic `!= `/hello-basic/` (따로 매핑 해줘야 함)
+> - 3.0 이전 : `/hello-basic `== `/hello-basic/` 
+> - 3.0 이후 : `/hello-basic `!= `/hello-basic/` (따로 매핑 해줘야 함)
 
 - 어노테이션 기반이기 때문에, 메서드명의 경우에는 상관없이 자유롭게 지을 수 있음
 
@@ -246,7 +246,7 @@ public String headers(HttpServletRequest request,
 		- 기본 값 속성 : defaultValue
 		
 > [!Info] required와 defaultValue
-> @RequestParam, @RequestHeader, @CookieValue등에는 required와 defaultValue 속성이 있다.
+> - @RequestParam, @RequestHeader, @CookieValue등에는 required와 defaultValue 속성이 있다.
 > - **required** = true
 > 	- 해당 파라미터(헤더, 쿠키) 의 필수 여부
 > 	- 기본값은 true (필수)
