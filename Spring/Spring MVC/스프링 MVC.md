@@ -109,7 +109,7 @@ protected void render(ModelAndView mv, HttpServletRequest request, HttpServletRe
 ## 핸들러 매핑과 핸들러 어댑터
 
 - 핸들러(컨트롤러)의 경우, 과거에는 `org.springframework.web.servlet.mvc.Controller` 인터페이스를 구현하는 것으로 만들었고
-- 최근에는 [@RequestMapping](@RequestMapping.md)이나 [@Controller](../../미완성%20문서/Controller.md) 를 이용해서 만든다.
+- 최근에는 [@Controller + @RequestMapping](Controller.md)로 만든다.
 - 어느쪽이든 생성한 핸들러를 스프링 빈으로 등록하고 나면, 이제 스프링 MVC에서 Controller로 사용할 수 있다.
 - 이렇게 빈으로 등록한 컨트롤러를 사용하기 위해서는 2가지가 필요
 
@@ -118,7 +118,7 @@ protected void render(ModelAndView mv, HttpServletRequest request, HttpServletRe
 - 먼저 핸들러 매핑에서 방금 등록한 컨트롤러를 찾을 수 있어야 한다.
 	- 핸들러 매핑에서 적합한 핸들러(컨트롤러)를 찾는 방식은 여러가지 있는데, 스프링에서 이미 필요한 핸들러 매핑들을 대부분 구현해 두었고,  [스프링부트](../../미완성%20문서/SpringBoot.md)에서 자주쓰이는 일부를 자동으로 등록해 둠
 	- 대표적인 핸들러 매핑의 예 (숫자는 우선순위)
-		- `0 = RequestMappingHandlerMapping` : 어노테이션 기반의 컨트롤러인 [@RequestMapping](@RequestMapping.md)에서 사용
+		- `0 = RequestMappingHandlerMapping` : 어노테이션 기반의 컨트롤러인 [@RequestMapping](Controller.md) 방식의 컨트롤러에 대응해서 사용
 		- `1 = BeanNameUrlHandlerMapping` : 요청받은 URL과 같은 이름으로 핸들러 찾기
 			-  (이 경우에는 컨트롤러의 빈 이름을 URL과 같은 모양으로 지어야 함)
 	- 우선순위에 따라 @RequestMapping을 다 검색해보고, 없을 경우 다음 순위인 빈 이름으로 검색해서 핸들러를 조회
@@ -127,7 +127,7 @@ protected void render(ModelAndView mv, HttpServletRequest request, HttpServletRe
 - HandlerAdapter에서 순서대로 각각의 어댑터의 `supports()`메서드를 실행
 	- HandlerMapping과 마찬가지로, 필요한 대부분의 어댑터는 스프링이 구현해 두었고, 스프링 부트가 자동으로 등록해두었다.
 	- 대표적인 어댑터의 예 (숫자는 우선순위)
-		- `0 = RequestMappingHandlerAdapter` : 어노테이션 기반의 컨트롤러인 [@RequestMapping](@RequestMapping.md)에서 사용
+			- `0 = RequestMappingHandlerAdapter` : 어노테이션 기반의 컨트롤러인 [@RequestMapping](Controller.md) 방식의 컨트롤러에 대응해서 사용
 		- `1 = HttpRequestHandlerAdapter` : HttpRequestHandler 처리
 		- `2 = SimpleControllerHandlerAdapter` : 어노테이션을 쓰지 않는 과거 버전의 `Controller` 인터페이스 처리
 	- 위에서 찾은 핸들러(컨트롤러)와 호환되는 경우 해당 어댑터 실행 (`handle()` 호출)
@@ -164,4 +164,5 @@ protected void render(ModelAndView mv, HttpServletRequest request, HttpServletRe
 > 
 
 
-
+// TODO: RequestMapping과 Controller에 대한 내용을 컨트롤러에 넘기고
+실제 사용 내용에 대해서는 Controller에서 합쳐서 풀기

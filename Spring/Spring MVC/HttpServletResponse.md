@@ -8,7 +8,7 @@
 ### 역할
 
 - HTTP 응답 메세지 생성
-	- [HTTP 응답 코드](../../CS/Web/HTTP%20staus%20code.md) 지정
+	- [HTTP 응답 코드](../../CS/Web/HTTP%20status%20code.md) 지정
 	- [HTTP header](../../미완성%20문서/HTTP%20header.md) 생성
 	- [HTTP body](../../미완성%20문서/HTTP%20body.md) 생성
 - 편의 기능

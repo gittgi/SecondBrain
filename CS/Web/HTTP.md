@@ -11,7 +11,7 @@
 - [HTTP method](HTTP%20method.md)
 - [HTTP header](../../미완성%20문서/HTTP%20header.md)
 - [HTTP body](../../미완성%20문서/HTTP%20body.md)
-- [HTTP staus code](HTTP%20staus%20code.md)
+- [HTTP status code](HTTP%20status%20code.md)
 
 
 

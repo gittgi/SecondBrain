@@ -1,4 +1,4 @@
-# HTTP staus code
+# HTTP status code
 
 ```table-of-contents
 ```

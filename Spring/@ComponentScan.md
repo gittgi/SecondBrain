@@ -59,7 +59,7 @@ package hello.core;
 
 - 컴포넌트 스캔은 다음의 어노테이션을 컴포넌트 스캔의 기본 대상으로 삼는다.
 	- [@Component](../미완성%20문서/@Component.md) : 컴포넌트 스캔에 사용
-	- [@Controller](Spring%20MVC/@RequestMapping.md) : [스프링 MVC](Spring%20MVC/스프링%20MVC.md) 컨트롤러에서 사용 (+ 스프링 MVC 컨트롤러로 인식)
+	- [[../미완성 문서/Controller|@Controller](Spring%20MVC/스프링%20MVC.md) 컨트롤러에서 사용 (+ 스프링 MVC 컨트롤러로 인식)
 	- [Service](../미완성%20문서/Service.md) : 스프링 비지니스 로직을 다루는 서비스에서 사용 (+ 추가 기능은 없고, 개발자들이 핵심 비지니스 로직 계층을 인식하도록 표시)
 	- [@Repository](../미완성%20문서/@Repository.md) : 스프링 데이터 접근 계층에서 사용 (+ 데이터 계층의 예외를 스프링 예외로 변환)
 	- [@Configuration](@Configuration.md) : 스프링 설정 정보에서 사용 (+ 스프링 빈이 [싱글톤](../CS/디자인%20패턴/싱글톤%20패턴.md)으로 유지되도록 추가 처리)
