@@ -356,6 +356,9 @@ public HelloData requestBodyJsonV5(HttpEntity<HelloData> httpEntity) {
 > 
 > 메세지 바디를 읽을 때 알아서 문자나 객체로 변환해 주는 것은 [HttpMessageConverter](../../미완성%20문서/HttpMessageConverter.md) 를 스프링 MVC에서 사용하기 때문
 > 
+
+
+
 ### return
 
 #### return 뷰이름;
