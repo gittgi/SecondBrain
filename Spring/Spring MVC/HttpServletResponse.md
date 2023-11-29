@@ -117,7 +117,7 @@ public class ResponseJsonServlet extends HttpServlet {
 	- `response.getWriter()`를 사용하면 인코딩 정보에 대한 추가 파라미터를 자동으로 추가해버리지만, `response.getOutputStream()`[^1]으로 변환해서 출력하면 자동으로 추가하지 않음
 
 
-[[../../CS/Web/서블릿|서블릿]]
+[서블릿](../../CS/Web/서블릿.md)
 
 
 연관문서 : [HttpServletRequest](HttpServletRequest.md)

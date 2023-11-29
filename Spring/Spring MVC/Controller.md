@@ -222,7 +222,13 @@ public String headers(HttpServletRequest request,
 - `@ModelAttribute`도 생략가능
 	- `@RequestParam`을 생략했을 때와 겹치기 때문에 스프링 내부에서 구별
 		- String, int, Integer와 같은 단순 타입 -> `@RequestParam`
-		- 그 외 나머지 -> `@ModelAttribute` (argument resolver로 지정해둔 타입 외)
+		- 그 외 나머지 -> `@ModelAttribute` ([ArgumentResolver](ArgumentResolver와%20ReturnValueHandler.md)로 지정해둔 타입 외)
+- @ModelAttribute로 지정한 객체는 자동으로 Model에 들어감
+	- 기본적으로 @ModelAttribute의 객체의 클래스명을 키값으로 사용
+		- 단 클래스의 첫글자만 소문자로 변경
+		- `model.addAttribute("myData", myData)` 과 같은 효과
+	- `@ModelAttribute("newName") Mydata myData`처럼 이름 지정 가능
+		- `model.addAttribute("newName", myData)`와 같은 효과
 
 #### @PathVariable
 - @RequestMapping에서 설정한 경로 변수를 파라미터로 받을 수 있다.
@@ -354,7 +360,7 @@ public HelloData requestBodyJsonV5(HttpEntity<HelloData> httpEntity) {
 
 > [!info] HTTP 메세지 컨버터
 > 
-> 메세지 바디를 읽을 때 알아서 문자나 객체로 변환해 주는 것은 [HttpMessageConverter](../../미완성%20문서/HttpMessageConverter.md) 를 스프링 MVC에서 사용하기 때문
+> 메세지 바디를 읽을 때 알아서 문자나 객체로 변환해 주는 것은 [HttpMessageConverter](HttpMessageConverter.md) 를 스프링 MVC에서 사용하기 때문
 > 
 
 
@@ -367,10 +373,29 @@ public HelloData requestBodyJsonV5(HttpEntity<HelloData> httpEntity) {
 	- 만약 @ResonseBody가 붙어있는 메서드였다면 그냥 바디에 문자열이 나간다.
 	- void를 반환하면서, @Controller를 사용하고, HTTP 메세지 바디를 처리하는 파라미터(HttpServletResponse, OutputSream등)가 없는 경우에는 요청 URL을 참고해서 논리 뷰 이름으로 사용 (명시성이 떨어짐)
 
+#### redirect
+- 스프링은 `redirect:/`을 지원
+- `return "redirect:/member/{memberId}"`와 같이 작성하면 해당 경로로 리다이렉트 (PathVariable 사용 가능)
+- PRG[^2] 방법을 쓸 때 사용
+
+##### redirectAttributes
+- 리다이렉트시, redirectAttribute를 사용하면 URL 인코딩에 PathVariable, 쿼리파라미터까지 처리
+```java
+@PostMapping("/add")
+    public String addItemV6(Item item, RedirectAttributes redirectAttributes) {
+
+        Item savedItem = itemRepository.save(item);
+        redirectAttributes.addAttribute("itemId", savedItem.getId());
+        redirectAttributes.addAttribute("status", true);
+        return "redirect:/basic/items/{itemId}";
+
+}
+```
+
 
 #### return HttpEntity
 - 뷰 템플릿을 사용하지 않고 메세지 바디 정보를 직접 반환 하고 싶을 때 사용
-- [HttpMessageConverter](../../미완성%20문서/HttpMessageConverter.md)를 사용해서 변환되는 것
+- [HttpMessageConverter](HttpMessageConverter.md)를 사용해서 변환되는 것
 ```java
 @PostMapping("/request-body-json-v5")  
 public HttpEntity<MemberData> requestBodyJsonV5(HttpEntity<MemberData> httpEntity) {  
@@ -407,8 +432,7 @@ public HelloData requestBodyJsonV5(HttpEntity<HelloData> httpEntity) {
 
 
 [^1]: 같은 키에 여러 밸류가 들어가는 경우 사용하는 것이 `MultiValueMap`, 리스트로 조회된다.  `List<String> values = MultiValueMap.get(key);`
-
-
+[^2]: POST Redirect GET: Post 메서드로 요청한 후에 새로고침을 하는 경우, 가장 최근에 보낸 요청인 Post 요청이 다시 전송되기 때문에 중복 주문 등이 이뤄질 수 있다. 따라서 Post 요청의 응답으로 리다이렉트를 설정하면, 리다이렉트 된 페이지에서 자동으로 Get요청이 실행되면서 원하는 결과 페이지를 보여줄 수 있고, 동시에 새로고침시에도 결과페이지 Get 요청이 반복되므로 문제를 해결할 수 있다.
 
 
 
