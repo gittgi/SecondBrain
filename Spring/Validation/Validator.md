@@ -89,7 +89,7 @@ public class ItemServiceApplication implements WebMvcConfigurer {
 ```
 
 > [!Important] BeanValidator 등록 문제
-> 이처럼 글로벌 설정으로 등하는 경우에는 [BeanValidator](../../미완성%20문서/BeanValidator.md)가 자동 등록되지 않기 때문에 잘 사용하지 않는다.
+> 이처럼 글로벌 설정으로 등하는 경우에는 [BeanValidator](BeanValidator.md)가 자동 등록되지 않기 때문에 잘 사용하지 않는다.
 
 
 

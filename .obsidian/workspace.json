@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Validation/BindingResult.md",
+                "file": "Spring/Validation/BeanValidator.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@ModelA",
+                "query": "typeM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Validation/BindingResult.md",
+                "file": "Spring/Validation/BeanValidator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Validation/BindingResult.md",
+                "file": "Spring/Validation/BeanValidator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Validation/BindingResult.md"
+                "file": "Spring/Validation/BeanValidator.md"
               }
             }
           },
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,11 +158,12 @@
   },
   "active": "8fff592b196355cb",
   "lastOpenFiles": [
-    "미완성 문서/Validator.md",
+    "Spring/Validation/MessageCodesResolver.md",
+    "Spring/Validation/BeanValidator.md",
     "Spring/Validation/Validator.md",
     "Spring/Validation/BindingResult.md",
-    "Spring/Validation/MessageCodesResolver.md",
-    "미완성 문서/BeanValidator.md",
+    "미완성 문서/스프링 부트.md",
+    "미완성 문서/Validator.md",
     "Spring/Spring MVC/Controller.md",
     "미완성 문서/MessageSource.md",
     "Spring/Validation",
@@ -183,7 +185,6 @@
     "미완성 문서/Cookie.md",
     "미완성 문서/CSR.md",
     "미완성 문서/Context Switching.md",
-    "미완성 문서/CGLIB.md",
     "무제 파일.canvas",
     "이미지",
     "checkbox-styles.png",
