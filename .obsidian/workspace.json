@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b427b8382bdb7cc9",
+        "id": "69a5c1c585508b6d",
         "type": "tabs",
         "children": [
           {
-            "id": "8fff592b196355cb",
+            "id": "4d1301b0c7308e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/서블릿 필터.md",
+                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/서블릿 필터.md",
+                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/서블릿 필터.md",
+                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/서블릿 필터.md"
+                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md"
               }
             }
           },
@@ -156,14 +156,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fff592b196355cb",
+  "active": "4d1301b0c7308e24",
   "lastOpenFiles": [
-    "미완성 문서/logback mdc.md",
+    "미완성 문서/리플렉션.md",
+    "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
+    "미완성 문서/스프링 인터셉터.md",
     "Spring/서블릿 필터.md",
-    "CS/Web/Web Application Server.md",
-    "미완성 문서/인터셉터.md",
-    "미완성 문서/AOP.md",
     "CS/Web/Session.md",
+    "Spring/Spring MVC/어댑터 패턴.md",
+    "Spring/Spring MVC/스프링 MVC.md",
+    "CS/Web/서블릿.md",
+    "CS/Web/Web Application Server.md",
+    "미완성 문서/logback mdc.md",
+    "미완성 문서/AOP.md",
     "CS/Web/Cookie.md",
     "Spring/Validation/BeanValidator.md",
     "Spring/Validation/MessageCodesResolver.md",
@@ -175,16 +180,11 @@
     "미완성 문서/MessageSource.md",
     "Spring/Validation",
     "미완성 문서/POST Redirect GET.md",
-    "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
     "미완성 문서/SSL.md",
     "미완성 문서/Service Locator Pattern.md",
     "미완성 문서/NullPointException.md",
     "미완성 문서/final.md",
     "미완성 문서/Event-driven Programming.md",
-    "미완성 문서/DataSource.md",
-    "Spring/Spring MVC/HttpMessageConverter.md",
-    "미완성 문서/HTTP header.md",
-    "미완성 문서/HTML.md",
     "무제 파일.canvas",
     "이미지",
     "checkbox-styles.png",
