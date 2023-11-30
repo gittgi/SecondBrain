@@ -148,7 +148,7 @@ Max={0}, 최대 {1}
 ```
 - `{0}`은 해당 필드명의 자리이고, `{1}`, `{2}`는 어노테이션마다 다르게 정의되어 있음
 
-### BeanValidation 메세지 찾는 순사
+### BeanValidation 메세지 찾는 순서
 1. 생성된 메세지 코드 순서대로 [MessageSource](../../미완성%20문서/MessageSource.md) (error.properties)에서 메세지 찾기
 2. 어노테이션의 message 속성 사용 `@NotBlank(message = "{0} 필드에 공백은 안됩니다."`
 3. 라이브러리가 제공하는 기본 값 사용 

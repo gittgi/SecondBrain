@@ -13,7 +13,7 @@
 	- [HTTP body](../../미완성%20문서/HTTP%20body.md) 생성
 - 편의 기능
 	- Content-Type 
-	- [Cookie](../../미완성%20문서/Cookie.md)
+	- [Cookie](../../CS/Web/Cookie.md)
 	- Redirect
 
 

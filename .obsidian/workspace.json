@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Validation/BeanValidator.md",
+                "file": "CS/Web/Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Validation/BeanValidator.md",
+                "file": "CS/Web/Session.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Validation/BeanValidator.md",
+                "file": "CS/Web/Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Validation/BeanValidator.md"
+                "file": "CS/Web/Session.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "8fff592b196355cb",
   "lastOpenFiles": [
-    "Spring/Validation/MessageCodesResolver.md",
+    "CS/Web/Cookie.md",
+    "CS/Web/Session.md",
     "Spring/Validation/BeanValidator.md",
+    "Spring/Validation/MessageCodesResolver.md",
     "Spring/Validation/Validator.md",
     "Spring/Validation/BindingResult.md",
     "미완성 문서/스프링 부트.md",
@@ -171,7 +173,6 @@
     "미완성 문서/POST Redirect GET.md",
     "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
     "미완성 문서/SSL.md",
-    "미완성 문서/Session.md",
     "미완성 문서/Service Locator Pattern.md",
     "미완성 문서/NullPointException.md",
     "미완성 문서/final.md",
@@ -182,7 +183,6 @@
     "미완성 문서/HTML.md",
     "미완성 문서/HTTP API.md",
     "미완성 문서/HTTP body.md",
-    "미완성 문서/Cookie.md",
     "미완성 문서/CSR.md",
     "미완성 문서/Context Switching.md",
     "무제 파일.canvas",

@@ -246,7 +246,7 @@ public String headers(HttpServletRequest request,
 		- 필수 값 여부 : required
 		- 기본 값 속성 : defaultValue
 - `@CookieValue(value = "myCookie", required = false) String cookie`
-	- 특정 [Cookie](../../미완성%20문서/Cookie.md) 조회
+	- 특정 [Cookie](../../CS/Web/Cookie.md) 조회
 	- 속성
 		- 필수 값 여부 : required
 		- 기본 값 속성 : defaultValue

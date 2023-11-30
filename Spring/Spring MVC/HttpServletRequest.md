@@ -19,7 +19,7 @@
 		- **임시 저장소** : 해당 HTTP 요청의 시작부터 끝까지 유지되는 임시 저장소
 			- 저장 : `request.setAttribute(name, value)`
 			- 조회 : `request.getAttribute(name)`
-		- **[세션](../../미완성%20문서/Session.md) 관리** 
+		- **[세션](../../CS/Web/Session.md) 관리** 
 			- `request.getSession(create: true)`를 통해 세션 생성
 
 
