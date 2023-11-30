@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring MVC/Controller.md",
+                "file": "Spring/Validation/BindingResult.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring MVC/Controller.md",
+                "file": "Spring/Validation/BindingResult.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring MVC/Controller.md",
+                "file": "Spring/Validation/BindingResult.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring MVC/Controller.md"
+                "file": "Spring/Validation/BindingResult.md"
               }
             }
           },
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,16 @@
   },
   "active": "8fff592b196355cb",
   "lastOpenFiles": [
-    "미완성 문서/POST Redirect GET.md",
+    "미완성 문서/Validator.md",
+    "Spring/Validation/Validator.md",
+    "Spring/Validation/BindingResult.md",
+    "Spring/Validation/MessageCodesResolver.md",
+    "미완성 문서/BeanValidator.md",
     "Spring/Spring MVC/Controller.md",
+    "미완성 문서/MessageSource.md",
+    "Spring/Validation",
+    "Spring/무제 파일.md",
+    "미완성 문서/POST Redirect GET.md",
     "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
     "미완성 문서/SSL.md",
     "미완성 문서/Session.md",
@@ -177,13 +184,6 @@
     "미완성 문서/CSR.md",
     "미완성 문서/Context Switching.md",
     "미완성 문서/CGLIB.md",
-    "미완성 문서/AspectJ.md",
-    "미완성 문서/프레임워크.md",
-    "미완성 문서/의존관계 조회.md",
-    "미완성 문서/웹 소켓.md",
-    "미완성 문서/어노테이션.md",
-    "미완성 문서/안티패턴.md",
-    "미완성 문서/슈퍼타입, 서브타입.md",
     "무제 파일.canvas",
     "이미지",
     "checkbox-styles.png",
@@ -194,7 +194,6 @@
     "CS",
     "슈퍼타입",
     "Spring/JPA",
-    "getter",
-    "JAVA"
+    "getter"
   ]
 }
