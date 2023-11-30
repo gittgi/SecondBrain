@@ -65,5 +65,6 @@
   "이미지": {
     "iconName": "FarImages",
     "inheritanceIcon": "FarImage"
-  }
+  },
+  "Spring/Validation": "FarFolder"
 }
