@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Exception/@ControllerAdvice.md",
+                "file": "Spring/Exception/API 예외 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Exception/@ControllerAdvice.md",
+                "file": "Spring/Exception/API 예외 처리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Exception/@ControllerAdvice.md",
+                "file": "Spring/Exception/API 예외 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Exception/@ControllerAdvice.md"
+                "file": "Spring/Exception/API 예외 처리.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "f53898ec34ec46e3",
   "lastOpenFiles": [
+    "Spring/서블릿 필터.md",
+    "Spring/Exception/@ControllerAdvice.md",
     "미완성 문서/리플렉션.md",
     "미완성 문서/@Repository.md",
     "미완성 문서/@SpringBootApplication.md",
@@ -183,8 +185,6 @@
     "미완성 문서/Event-driven Programming.md",
     "미완성 문서/final.md",
     "미완성 문서/HTML.md",
-    "미완성 문서/HTTP API.md",
-    "미완성 문서/HTTP body.md",
     "Spring/Exception",
     "Spring/Validation",
     "무제 파일.canvas",
