@@ -1,3 +1,8 @@
+---
+aliases:
+  - WAS
+---
+
 # Web Application Server
 
 ```table-of-contents

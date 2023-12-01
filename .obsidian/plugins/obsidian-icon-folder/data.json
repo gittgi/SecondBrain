@@ -66,5 +66,6 @@
     "iconName": "FarImages",
     "inheritanceIcon": "FarImage"
   },
-  "Spring/Validation": "FarFolder"
+  "Spring/Validation": "FarFolder",
+  "Spring/Exception": "FarFolder"
 }

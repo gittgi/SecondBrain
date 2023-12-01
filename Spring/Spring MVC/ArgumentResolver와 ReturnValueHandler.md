@@ -136,7 +136,7 @@ public class LoginMemberArgumentResolver implements HandlerMethodArgumentResolve
 - `resolveArgument()` : 컨트롤러 호출 직전에 호출되어서 필요한 파라미터 정보를 생성, 여기서는 로그인 회원 정보인 member 객체 반환, 이후 [스프링 MVC](스프링%20MVC.md)가 컨트롤러의 메서드를 호출하면서, 방금 가져온 member 객체를 파라미터에 전달
 
 ### WebMvcController에 설정 추가
-- [서블릿 필터](../서블릿%20필터.md)나 [스프링 인터셉터](../../미완성%20문서/스프링%20인터셉터.md)를 등록했던 `WebMvcController`에 방금 만든 LoginMemberArgumentResolver 등록
+- [서블릿 필터](../서블릿%20필터.md)나 [스프링 인터셉터](../스프링%20인터셉터.md)를 등록했던 `WebMvcController`에 방금 만든 LoginMemberArgumentResolver 등록
 ```java
 @Configuration  
 public class WebConfig implements WebMvcConfigurer {  

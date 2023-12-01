@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69a5c1c585508b6d",
+        "id": "69f3cb323cfa307a",
         "type": "tabs",
         "children": [
           {
-            "id": "4d1301b0c7308e24",
+            "id": "f53898ec34ec46e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
+                "file": "Spring/Exception/@ControllerAdvice.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typeM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
+                "file": "Spring/Exception/@ControllerAdvice.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
+                "file": "Spring/Exception/@ControllerAdvice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md"
+                "file": "Spring/Exception/@ControllerAdvice.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,35 +157,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d1301b0c7308e24",
+  "active": "f53898ec34ec46e3",
   "lastOpenFiles": [
     "미완성 문서/리플렉션.md",
-    "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
-    "미완성 문서/스프링 인터셉터.md",
-    "Spring/서블릿 필터.md",
-    "CS/Web/Session.md",
-    "Spring/Spring MVC/어댑터 패턴.md",
-    "Spring/Spring MVC/스프링 MVC.md",
-    "CS/Web/서블릿.md",
-    "CS/Web/Web Application Server.md",
-    "미완성 문서/logback mdc.md",
+    "미완성 문서/@Repository.md",
+    "미완성 문서/@SpringBootApplication.md",
+    "미완성 문서/@Nullable.md",
+    "미완성 문서/@Bean.md",
+    "미완성 문서/@Component.md",
+    "미완성 문서/@InitBinder.md",
+    "미완성 문서/세션.md",
+    "미완성 문서/순환 참조.md",
+    "미완성 문서/슈퍼타입, 서브타입.md",
+    "미완성 문서/안티패턴.md",
+    "미완성 문서/어노테이션.md",
+    "미완성 문서/웹 소켓.md",
+    "미완성 문서/의존관계 조회.md",
+    "미완성 문서/프레임워크.md",
     "미완성 문서/AOP.md",
-    "CS/Web/Cookie.md",
-    "Spring/Validation/BeanValidator.md",
-    "Spring/Validation/MessageCodesResolver.md",
-    "Spring/Validation/Validator.md",
-    "Spring/Validation/BindingResult.md",
-    "미완성 문서/스프링 부트.md",
-    "미완성 문서/Validator.md",
-    "Spring/Spring MVC/Controller.md",
-    "미완성 문서/MessageSource.md",
-    "Spring/Validation",
-    "미완성 문서/POST Redirect GET.md",
-    "미완성 문서/SSL.md",
-    "미완성 문서/Service Locator Pattern.md",
-    "미완성 문서/NullPointException.md",
-    "미완성 문서/final.md",
+    "미완성 문서/AspectJ.md",
+    "미완성 문서/CGLIB.md",
+    "미완성 문서/Context Switching.md",
+    "미완성 문서/CSR.md",
+    "미완성 문서/DataSource.md",
     "미완성 문서/Event-driven Programming.md",
+    "미완성 문서/final.md",
+    "미완성 문서/HTML.md",
+    "미완성 문서/HTTP API.md",
+    "미완성 문서/HTTP body.md",
+    "Spring/Exception",
+    "Spring/Validation",
     "무제 파일.canvas",
     "이미지",
     "checkbox-styles.png",
@@ -194,7 +196,6 @@
     "CS/디자인 패턴",
     "CS",
     "슈퍼타입",
-    "Spring/JPA",
-    "getter"
+    "Spring/JPA"
   ]
 }
