@@ -105,7 +105,7 @@ public interface HandlerExceptionResolver {
 ```
 
 - `ex instanceof IllegalArgumentException` : 핸들러에서 발생한 예외 (ex)가 IllegalArgumentException인 경우에 작동
-- [sendError(원하는 코드, 원하는 메세지)](서블릿%20예외%20처리.md) : 에러를 try/catch 로 잡은 뒤, 원하는 코드와 메세지로 sendError()를 수행시킨다.
+- [sendError(원하는 코드, 원하는 메세지)](원하는%20코드,%20원하는%20메세지)) : 에러를 try/catch 로 잡은 뒤, 원하는 코드와 메세지로 sendError()를 수행시킨다.
 - `return new ModelAndView()` : 원하는 에러 코드를 WAS로 보낸뒤에, 빈 ModelAndView를 리턴하는 것으로 정상 흐름으로 돌린다 (**마치 에러가 없었던 것처럼**) (뷰를 렌더링 하라는 뜻이 아님)
 
 
