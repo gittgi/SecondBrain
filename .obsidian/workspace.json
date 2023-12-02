@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "69f3cb323cfa307a",
+        "id": "ff538989064863d4",
         "type": "tabs",
         "children": [
           {
-            "id": "04d31d5d6a24b91a",
+            "id": "7ce71d71fa82265a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f53898ec34ec46e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/Formatter.md",
+                "file": "미완성 문서/WebMvcConfigurer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Formatter.md",
+                "file": "미완성 문서/WebMvcConfigurer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Formatter.md",
+                "file": "미완성 문서/WebMvcConfigurer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Formatter.md"
+                "file": "미완성 문서/WebMvcConfigurer.md"
               }
             }
           },
@@ -170,34 +157,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c0c2b423d7b95ad",
+  "active": "7ce71d71fa82265a",
   "lastOpenFiles": [
-    "Spring/스프링 타입 컨버터.md",
-    "Spring/Formatter.md",
-    "Spring/Exception/API 예외 처리.md",
-    "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
-    "미완성 문서/WebMvcConfigurer.md",
-    "Spring/Spring MVC/HttpMessageConverter.md",
-    "Spring/서블릿 필터.md",
-    "Spring/Exception/서블릿 예외 처리.md",
-    "미완성 문서/@Value.md",
-    "Spring/Exception/@ControllerAdvice.md",
-    "미완성 문서/리플렉션.md",
-    "미완성 문서/@Repository.md",
-    "미완성 문서/@SpringBootApplication.md",
-    "미완성 문서/@Nullable.md",
-    "미완성 문서/@Bean.md",
-    "미완성 문서/@Component.md",
-    "미완성 문서/@InitBinder.md",
-    "미완성 문서/세션.md",
-    "미완성 문서/순환 참조.md",
-    "미완성 문서/슈퍼타입, 서브타입.md",
-    "미완성 문서/안티패턴.md",
-    "미완성 문서/어노테이션.md",
-    "미완성 문서/웹 소켓.md",
-    "미완성 문서/의존관계 조회.md",
-    "미완성 문서/프레임워크.md",
+    "미완성 문서/WebFlux.md",
+    "미완성 문서/toString.md",
+    "미완성 문서/Tomcat.md",
+    "미완성 문서/Thymleaf.md",
+    "미완성 문서/StackOverFlowError.md",
+    "미완성 문서/SSR.md",
+    "미완성 문서/SSL.md",
+    "미완성 문서/SpringBoot.md",
+    "미완성 문서/OSI 7계층.md",
+    "미완성 문서/Service.md",
+    "미완성 문서/Service Locator Pattern.md",
+    "미완성 문서/Optional.md",
+    "미완성 문서/NullPointException.md",
+    "미완성 문서/Nginx.md",
+    "미완성 문서/Model.md",
+    "미완성 문서/MessageSource.md",
+    "미완성 문서/logback mdc.md",
+    "미완성 문서/JSON.md",
+    "미완성 문서/Jackson.md",
+    "미완성 문서/HTML.md",
+    "미완성 문서/final.md",
+    "미완성 문서/Event-driven Programming.md",
+    "미완성 문서/DataSource.md",
+    "미완성 문서/AspectJ.md",
     "미완성 문서/AOP.md",
+    "미완성 문서/프레임워크.md",
     "Spring/Exception",
     "Spring/Validation",
     "무제 파일.canvas",
