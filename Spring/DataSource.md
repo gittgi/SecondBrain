@@ -70,3 +70,111 @@ private void useDataSource(DataSource dataSource) throws SQLException {
 - useDataSource를 만들때, DataSource만 주입해주면 어떤 방식으로 DataSource를 만들었는지와는 상관없이 똑같이 사용 가능
 	- 이는 곧, **DataSource를 외부에서 [의존관계 주입](의존관계%20주입.md) 하여 사용**할 수 있다는 뜻
 	- 리포지토리가 DataSource 인터페이스에만 의존하고 있다면, DriverManagerDataSource에서 HikariDataSource로 변경해서 주입한다 하더라도 문제가 되지 않는다
+
+
+## 스프링 부트의 자동 리소스 등록
+
+### 데이터 소스 자동 등록
+- 스프링 부트 이전에는 DataSource와 [트랜잭션 매니저](스프링과%20트랜잭션.md)를 직접 [스프링 빈](스프링%20빈.md)으로 등록해서 사용
+```java
+ @Bean
+DataSource dataSource() {
+	return new DriverManagerDataSource(URL, USERNAME, PASSWORD);
+}
+
+@Bean
+PlatformTransactionManager transactionManager() {
+	return new DataSourceTransactionManager(dataSource());
+}
+
+```
+
+- 그러나 [스프링부트](../미완성%20문서/SpringBoot.md)는 DataSource를 자동으로 등록
+	- 자동 등록된 스프링 빈 이름 : `dataSource`
+	- 직접 DataSource를 등록하는 경우, 자동으로 등록하지 않는다
+- DataSource를 자동 등록하기 위해 필요한 정보들은 application.properties(yml)에서 찾아서 등록
+```properties
+# MySql  
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver  
+spring.datasource.url=jdbc:mysql://localhost:3306/book_store?characterEncoding=UTF-8&serverTimezone=UTC  
+spring.datasource.username=root
+spring.datasource.password=
+```
+
+```yml
+
+spring:  
+  datasource:  
+    driver-class-name: com.mysql.cj.jdbc.Driver  
+    url: jdbc:mysql://127.0.0.1:3306/book_store  
+    username: book_reg  
+    password: book_reg
+    
+```
+
+- 스프링 부트가 기본으로 생성하는 DataSource는 [커넥션 풀](../CS/커넥션%20풀.md)방식의 `HikariDataSource`
+	- 커넥션 풀 관련 설정도 application.porperties를 통해 지정
+- `spring.datasource.url`속성이 없으면 메모리 DB 로 내장 데이터베이스 생성을 시도
+
+### 트랜잭션 매니저 자동 등록
+- 스프링 부트는 적절한 [[스프링과 트랜잭션|트랜잭션 매니저](PlatformTransactionManager)를 자동으로 스프링 빈에 등록
+	- 자동 등록된 스프링 빈 이름 : `transactionManager`
+	- 직접 등록하는 경우, 자동등록 되지 않는다.
+- 어떤 트랜잭션 매니저를 선택할지는 현재 등록된 라이브러리를 보고 판단
+	- [JDBC](../JAVA/JDBC.md) -> `DataSourceTransactionManager`
+	- [JPA](../미완성%20문서/JPA.md) -> `JpaTransactionManager`
+
+### 자동 등록된 빈 사용 예시
+
+```java
+// 수동 등록
+@TestConfiguration  
+static class TestConfig {  
+    @Bean  
+    DataSource dataSource() {  
+        HikariDataSource dataSource = new HikariDataSource();  
+        dataSource.setJdbcUrl(URL);  
+        dataSource.setUsername(USERNAME);  
+        dataSource.setPassword(PASSWORD);  
+        return dataSource;  
+    }  
+  
+    @Bean  
+    PlatformTransactionManager transactionManager() {  
+        return new DataSourceTransactionManager(dataSource());  
+    }  
+  
+    @Bean  
+    MemberRepositoryV3 memberRepositoryV3() {  
+        return new MemberRepositoryV3(dataSource());  
+    }  
+  
+    @Bean  
+    MemberServiceV3_3 memberServiceV3_3() {  
+        return new MemberServiceV3_3(memberRepositoryV3());  
+    }  
+}
+
+// 자동 등록
+@TestConfiguration  
+static class TestConfig {  
+  
+    private final DataSource dataSource;  
+  
+    public TestConfig(DataSource dataSource) {  
+        this.dataSource = dataSource;  
+    }  
+  
+    @Bean  
+    MemberRepositoryV3 memberRepositoryV3() {  
+        return new MemberRepositoryV3(dataSource);  
+    }  
+  
+    @Bean  
+    MemberServiceV3_3 memberServiceV3_3() {  
+        return new MemberServiceV3_3(memberRepositoryV3());  
+    }  
+}
+```
+- DataSource와 트랜잭션 매니저가 자동으로 등록되어 있기 때문에, 직접 생성해서 넣지 않는다.
+- application.properties를 기반으로 생성되어 [스프링 컨테이너](스프링%20컨테이너.md)에 보관되어 있는 DataSource를 [의존관계 주입](의존관계%20주입.md) 및 [의존관계 자동 주입](의존관계%20자동%20주입.md) 받을 수 있다.
