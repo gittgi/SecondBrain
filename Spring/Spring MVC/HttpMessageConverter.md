@@ -102,7 +102,7 @@ tags:
 - `ArgumentResolver`들을 호출하여 컨트롤러가 필요로 하는 다양한 파라미터의 값을 생성하는데, 이때  @RequestBody, HttpEntity등을 처리할 수 있도록 메세지 컨버터를 호출
 	- @RequestBody를 처리하기 위해 `RequestResponseBodyMethodProcessor`라는 ArgumentResolver 사용
 	- HttpEntity를 처리하기 위해HttpEntityMethodProcessor 사용
-	- 이처럼 스프링은 30개 이상의 ArgumentResolver를 기본으로 제공하고, [ArgumentResolver|자신만의 리졸버를 정의해서 추가](ArgumentResolver와%20ReturnValueHandler.md)할 수도 있다.
+	- 이처럼 스프링은 30개 이상의 ArgumentResolver를 기본으로 제공하고, [자신만의 리졸버를 정의해서 추가](ArgumentResolver와%20ReturnValueHandler.md)할 수도 있다.
 - 마찬가지로`RequestMappingHandlerAdapter`는 ReturnValueHandler 를 통해 응답 값을 변환하고 처리, 이때도 @ResponseBody, HttpEntity 등을 처리할 수 있도록 메세지 컨버터 호출
 	- @RequestBody를 처리하기 위해 `RequestResponseBodyMethodProcessor`라는 ArgumentResolver 사용
 	- HttpEntity를 처리하기 위해HttpEntityMethodProcessor 사용

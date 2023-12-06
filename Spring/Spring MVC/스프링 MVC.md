@@ -22,7 +22,7 @@ tags:
 
 | 어댑터 패턴 구조                     | Spring MVC         |
 | ------------------------------------ | ------------------ |
-| [FrontController](프론트%20컨트롤러%5C) | DisapatcherServlet |
+| [프론트 컨트롤러](프론트%20컨트롤러.md) | DisapatcherServlet |
 | URI에 맞는 핸들러 조회               | HandlerMapping     |
 | 핸들러 어댑터                        | HandlerAdapter     |
 | ModelView                            | ModelAndView       |
@@ -160,7 +160,7 @@ protected void render(ModelAndView mv, HttpServletRequest request, HttpServletRe
 - 그러나 @RequestMapping과 같은 어노테이션 기반의 컨트롤러의 등장으로 지금은 MVC 역시 스프링 MVC 사용
 
 > 
-> 자세한 내용은 **[@RequestMapping](@RequestMapping.md)** 에서 계속
+> 자세한 내용은 **[@RequestMapping](Controller.md)** 에서 계속
 > 
 
 
