@@ -39,7 +39,7 @@ public interface HandlerMethodArgumentResolver {
 ## ReturnValueHandler란?
 
 - 정확히는 HandlerMethodReturnValueHandler
-- ArgumentHandler가 요청의 파라미터들을 처리한다면, ReturnValueHandler는 응답 값을 변환하고 처리
+- ArgumentResolver가 요청의 파라미터들을 처리한다면, ReturnValueHandler는 응답 값을 변환하고 처리
 - 대표적인 예시는 String으로 반환해도 View이름으로 인식하게하거나, 오브젝트를 반환해도 [메세지컨버터](HttpMessageConverter.md)를 호출해서 JSON 형태로 바꾸는 등의 역할을 함
 
 ### 동작 방식

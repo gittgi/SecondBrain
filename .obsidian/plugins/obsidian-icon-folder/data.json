@@ -42,10 +42,6 @@
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
   },
-  "Spring/JPA": {
-    "iconName": "FarFolder",
-    "inheritanceIcon": "FarFile"
-  },
   "Spring/Spring MVC": {
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
@@ -70,5 +66,13 @@
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
   },
-  "Spring/Exception": "FarFolder"
+  "Spring/Exception": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "Spring/데이터 접근 기술": "FarFolder",
+  "Spring/데이터 접근 기술/JPA": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  }
 }

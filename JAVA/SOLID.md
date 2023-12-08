@@ -1,3 +1,12 @@
+---
+aliases:
+  - OCP
+  - SRP
+  - LSP
+  - ISP
+  - DIP
+---
+
 # SOLID
 ```table-of-contents
 ```

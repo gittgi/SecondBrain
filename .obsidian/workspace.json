@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26201dead4b1c01a",
+        "id": "e173fb8fbaa56bc0",
         "type": "tabs",
         "children": [
           {
-            "id": "46ab968f172c0638",
+            "id": "a87186c5108f5e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미완성 문서/WebMvcConfigurer.md",
+                "file": "Spring/데이터 접근 기술/JdbcTemplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "변환기",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미완성 문서/WebMvcConfigurer.md",
+                "file": "Spring/데이터 접근 기술/JdbcTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미완성 문서/WebMvcConfigurer.md",
+                "file": "Spring/데이터 접근 기술/JdbcTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미완성 문서/WebMvcConfigurer.md"
+                "file": "Spring/데이터 접근 기술/JdbcTemplate.md"
               }
             }
           },
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +156,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46ab968f172c0638",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
+    "Spring/데이터 접근 기술/무제 폴더",
+    "Spring/데이터 접근 기술/무제 파일.md",
+    "Spring/데이터 접근 기술/JdbcTemplate.md",
+    "Spring/데이터 접근 기술",
+    "Spring/SLF4J.md",
+    "JAVA/JDBC.md",
+    "CS/트랜잭션.md",
+    "Spring/스프링과 트랜잭션.md",
+    "Spring/Exception/데이터 접근 예외.md",
+    "Spring/Exception/Exception.md",
+    "Spring/의존관계 주입.md",
+    "JAVA/SOLID.md",
+    "CS/커넥션 풀.md",
+    "미완성 문서/TCP IP.md",
+    "TCP/IP.md",
+    "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
+    "미완성 문서/WebMvcConfigurer.md",
     "미완성 문서/WebFlux.md",
     "미완성 문서/toString.md",
     "미완성 문서/Tomcat.md",
@@ -167,22 +185,6 @@
     "미완성 문서/SSL.md",
     "미완성 문서/SpringBoot.md",
     "미완성 문서/Service Locator Pattern.md",
-    "미완성 문서/Service.md",
-    "미완성 문서/Redis.md",
-    "미완성 문서/OSI 7계층.md",
-    "미완성 문서/Optional.md",
-    "미완성 문서/NullPointException.md",
-    "미완성 문서/Nginx.md",
-    "미완성 문서/Mongo.md",
-    "미완성 문서/Model.md",
-    "미완성 문서/MessageSource.md",
-    "미완성 문서/logback mdc.md",
-    "미완성 문서/JSON.md",
-    "미완성 문서/JPA.md",
-    "미완성 문서/Jackson.md",
-    "미완성 문서/HTTPS.md",
-    "미완성 문서/HTTP header.md",
-    "미완성 문서/HTTP body.md",
     "TCP",
     "Spring/Exception",
     "Spring/Validation",
@@ -193,7 +195,6 @@
     "미완성 문서",
     "CS/Web",
     "CS/디자인 패턴",
-    "CS",
-    "슈퍼타입"
+    "CS"
   ]
 }

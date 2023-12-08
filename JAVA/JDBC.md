@@ -218,3 +218,17 @@ private void close(Connection con, Statement stmt, ResultSet rs) {
 }
 
 ```
+
+
+## JdbcTemplate
+
+- [레포지토리](../미완성%20문서/@Repository.md)에서 JDBC 를 사용할 때는 반복이 많이 발생
+	- 커넥션 조회, 커넥션 동기화
+	- `PreparedStatement` 생성 및 파라미터 바인딩
+	- 쿼리 실행
+	- 결과 바인딩
+	- 예외 발생시 스프링 예외 변환기 실행
+	- 리소스 종료
+- 이런 문제를 해결하기 위해 [템플릿 콜백 패턴](../미완성%20문서/템플릿%20콜백%20패턴.md)을 도입한 JdbcTemplate이라는 템플릿을 제공
+	- JdbcTemplate을 적용하면 [트랜잭션](../CS/트랜잭션.md)을 위한 [커넥션 동기화](../Spring/스프링과%20트랜잭션.md)부터 [스프링 예외 변환](../Spring/Exception/데이터%20접근%20예외.md) 까지 자동으로 적용해줌
+- 자세한 내용은 [JdbcTemplate](../Spring/데이터%20접근%20기술/JdbcTemplate.md) 참조
