@@ -74,5 +74,6 @@
   "Spring/데이터 접근 기술/JPA": {
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
-  }
+  },
+  "알고리즘": "FarFolder"
 }

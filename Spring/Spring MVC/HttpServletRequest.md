@@ -133,7 +133,7 @@ public class RequestBodyStringServlet extends HttpServlet {
 
 ### API 메세지 바디 - JSON으로 받기
 - `content-type: application/json`
-- [HTTP API](../../미완성%20문서/HTTP%20API.md)에서 주로 사용하는 [JSON](../../미완성%20문서/JSON.md) 형식으로 데이터 전달
+- [HTTP API](../../미완성%20문서/HTTP%20API.md)에서 주로 사용하는 [JSON](../../CS/JSON.md) 형식으로 데이터 전달
 
 - [i] JSON 형식을 파싱하기 위해 객체 필요
 ```java

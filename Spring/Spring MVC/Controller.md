@@ -266,7 +266,7 @@ public String headers(HttpServletRequest request,
 > 	- 빈문자인 경우 (`?username=`) 에도 기본 값이 적용됨
 
 ### Request Body
-- API 방식에서 주로 [JSON](../../미완성%20문서/JSON.md), XML 등으로 보내는 경우, 또는 단순 TEXT로 보내는 경우, [HTTP body](../../미완성%20문서/HTTP%20body.md)에 직접 담겨져서 데이터가 넘어옴 (POST, PUT, PATCH)
+- API 방식에서 주로 [JSON](../../CS/JSON.md), XML 등으로 보내는 경우, 또는 단순 TEXT로 보내는 경우, [HTTP body](../../미완성%20문서/HTTP%20body.md)에 직접 담겨져서 데이터가 넘어옴 (POST, PUT, PATCH)
 - 이렇게 직접 넘어오는 경우, 파라미터 방식과는 다르게 `@RequestParam` 및 `@ModelAttribute` 등을 사용할 수 없다. (POST 방식 중 HTML Form 형태의 경우에는 파라미터로 인정)
 - 따라서 이 경우에는 다른 방식으로 데이터를 받아야 함
 

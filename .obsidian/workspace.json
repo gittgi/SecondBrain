@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e173fb8fbaa56bc0",
+        "id": "4c0870d56b5102c9",
         "type": "tabs",
         "children": [
           {
-            "id": "a87186c5108f5e83",
+            "id": "b328f0e44fe019bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/데이터 접근 기술/JdbcTemplate.md",
+                "file": "CS/XML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/데이터 접근 기술/JdbcTemplate.md",
+                "file": "CS/XML.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/데이터 접근 기술/JdbcTemplate.md",
+                "file": "CS/XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/데이터 접근 기술/JdbcTemplate.md"
+                "file": "CS/XML.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,35 +157,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c0c2b423d7b95ad",
+  "active": "b328f0e44fe019bf",
   "lastOpenFiles": [
+    "CS/JSON.md",
+    "CS/XML.md",
+    "알고리즘/무제 폴더/문제 풀이 전략.md",
+    "알고리즘/무제 폴더",
+    "알고리즘",
+    "CS/Web/Cookie.md",
+    "CS/Web/Session.md",
+    "JAVA/캡슐화.md",
+    "JAVA/추상화.md",
+    "Spring/Spring MVC/HttpMessageConverter.md",
+    "Spring/데이터 접근 기술/JdbcTemplate.md",
+    "Spring/Exception/데이터 접근 예외.md",
+    "Spring/Exception/@ControllerAdvice.md",
+    "JAVA/객체 지향.md",
+    "CS/Thread.md",
+    "CS/커넥션 풀.md",
+    "CS/트랜잭션.md",
+    "CS/제어의 역전.md",
+    "미완성 문서/Event-driven Programming.md",
+    "JAVA/다형성.md",
+    "JAVA/메서드 오버라이딩.md",
+    "JAVA/메소드 오버로딩.md",
     "Spring/데이터 접근 기술/무제 폴더",
     "Spring/데이터 접근 기술/무제 파일.md",
-    "Spring/데이터 접근 기술/JdbcTemplate.md",
     "Spring/데이터 접근 기술",
     "Spring/SLF4J.md",
     "JAVA/JDBC.md",
-    "CS/트랜잭션.md",
     "Spring/스프링과 트랜잭션.md",
-    "Spring/Exception/데이터 접근 예외.md",
     "Spring/Exception/Exception.md",
     "Spring/의존관계 주입.md",
-    "JAVA/SOLID.md",
-    "CS/커넥션 풀.md",
-    "미완성 문서/TCP IP.md",
-    "TCP/IP.md",
-    "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
-    "미완성 문서/WebMvcConfigurer.md",
-    "미완성 문서/WebFlux.md",
-    "미완성 문서/toString.md",
-    "미완성 문서/Tomcat.md",
-    "미완성 문서/Thymleaf.md",
-    "미완성 문서/ThreadLocal.md",
-    "미완성 문서/StackOverFlowError.md",
-    "미완성 문서/SSR.md",
-    "미완성 문서/SSL.md",
-    "미완성 문서/SpringBoot.md",
-    "미완성 문서/Service Locator Pattern.md",
     "TCP",
     "Spring/Exception",
     "Spring/Validation",
@@ -192,9 +196,6 @@
     "이미지",
     "checkbox-styles.png",
     "Spring/Spring MVC",
-    "미완성 문서",
-    "CS/Web",
-    "CS/디자인 패턴",
-    "CS"
+    "미완성 문서"
   ]
 }

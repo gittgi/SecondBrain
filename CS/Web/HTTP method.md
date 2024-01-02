@@ -32,6 +32,6 @@
 			- 회원 가입, 상품 주문, HTML Form 사용
 	- HTTP message body에 데이터를 직접 담아서 요청
 		- HTTP API에서 주로 사용하는 방식
-		- 데이터 형식은 주로 [JSON](../../미완성%20문서/JSON.md) 사용
+		- 데이터 형식은 주로 [JSON](../JSON.md) 사용
 		- POST 메서드 뿐만아니라 PUT, PATCH에서도 사용
 
