@@ -1,3 +1,8 @@
+---
+tags:
+  - CS_지식의_정석
+---
+
 # XML
 
 ```table-of-contents

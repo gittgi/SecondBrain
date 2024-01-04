@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/XML.md",
+                "file": "CS/가상머신.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/XML.md",
+                "file": "CS/가상머신.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/XML.md",
+                "file": "CS/가상머신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/XML.md"
+                "file": "CS/가상머신.md"
               }
             }
           },
@@ -159,8 +159,16 @@
   },
   "active": "b328f0e44fe019bf",
   "lastOpenFiles": [
+    "스크린샷 2024-01-04 오후 5.50.58.png",
+    "CS/가상머신.md",
+    "CS/API.md",
+    "CS/Interface.md",
+    "CS/제어의 역전.md",
+    "CS/커넥션 풀.md",
+    "CS/트랜잭션.md",
     "CS/JSON.md",
     "CS/XML.md",
+    "알고리즘/무제 폴더/완전 탐색.md",
     "알고리즘/무제 폴더/문제 풀이 전략.md",
     "알고리즘/무제 폴더",
     "알고리즘",
@@ -174,9 +182,6 @@
     "Spring/Exception/@ControllerAdvice.md",
     "JAVA/객체 지향.md",
     "CS/Thread.md",
-    "CS/커넥션 풀.md",
-    "CS/트랜잭션.md",
-    "CS/제어의 역전.md",
     "미완성 문서/Event-driven Programming.md",
     "JAVA/다형성.md",
     "JAVA/메서드 오버라이딩.md",
@@ -184,11 +189,6 @@
     "Spring/데이터 접근 기술/무제 폴더",
     "Spring/데이터 접근 기술/무제 파일.md",
     "Spring/데이터 접근 기술",
-    "Spring/SLF4J.md",
-    "JAVA/JDBC.md",
-    "Spring/스프링과 트랜잭션.md",
-    "Spring/Exception/Exception.md",
-    "Spring/의존관계 주입.md",
     "TCP",
     "Spring/Exception",
     "Spring/Validation",
