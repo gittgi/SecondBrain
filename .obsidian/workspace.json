@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/가상머신.md",
-                "mode": "source",
+                "file": "CS/CI_CD.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "변환기",
+                "query": "tag:클라우드",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 239.5
   },
   "right": {
     "id": "9cc9c0b11b57cec1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/가상머신.md",
+                "file": "CS/CI_CD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/가상머신.md",
+                "file": "CS/CI_CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/가상머신.md"
+                "file": "CS/CI_CD.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "b328f0e44fe019bf",
   "lastOpenFiles": [
-    "스크린샷 2024-01-04 오후 5.50.58.png",
+    "CS/Docker.md",
+    "CS/CI_CD.md",
+    "CS/클라우드.md",
     "CS/가상머신.md",
+    "스크린샷 2024-01-04 오후 5.50.58.png",
     "CS/API.md",
     "CS/Interface.md",
     "CS/제어의 역전.md",
@@ -185,9 +188,7 @@
     "미완성 문서/Event-driven Programming.md",
     "JAVA/다형성.md",
     "JAVA/메서드 오버라이딩.md",
-    "JAVA/메소드 오버로딩.md",
     "Spring/데이터 접근 기술/무제 폴더",
-    "Spring/데이터 접근 기술/무제 파일.md",
     "Spring/데이터 접근 기술",
     "TCP",
     "Spring/Exception",
