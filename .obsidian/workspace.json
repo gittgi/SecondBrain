@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CI_CD.md",
-                "mode": "preview",
+                "file": "JAVA/추상화.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:클라우드",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CI_CD.md",
+                "file": "JAVA/추상화.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CI_CD.md",
+                "file": "JAVA/추상화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CI_CD.md"
+                "file": "JAVA/추상화.md"
               }
             }
           },
@@ -159,8 +159,16 @@
   },
   "active": "b328f0e44fe019bf",
   "lastOpenFiles": [
-    "CS/Docker.md",
+    "JAVA/메서드 오버라이딩.md",
+    "JAVA/메소드 오버로딩.md",
+    "CS/static.md",
+    "CS/클래스, 객체 그리고 인스턴스.md",
+    "알고리즘/무제 폴더/완전 탐색.md",
+    "알고리즘/무제 폴더/문제 풀이 전략.md",
+    "JAVA/JDBC.md",
+    "Spring/데이터 접근 기술/JdbcTemplate.md",
     "CS/CI_CD.md",
+    "CS/Docker.md",
     "CS/클라우드.md",
     "CS/가상머신.md",
     "스크린샷 2024-01-04 오후 5.50.58.png",
@@ -171,8 +179,6 @@
     "CS/트랜잭션.md",
     "CS/JSON.md",
     "CS/XML.md",
-    "알고리즘/무제 폴더/완전 탐색.md",
-    "알고리즘/무제 폴더/문제 풀이 전략.md",
     "알고리즘/무제 폴더",
     "알고리즘",
     "CS/Web/Cookie.md",
@@ -180,14 +186,8 @@
     "JAVA/캡슐화.md",
     "JAVA/추상화.md",
     "Spring/Spring MVC/HttpMessageConverter.md",
-    "Spring/데이터 접근 기술/JdbcTemplate.md",
     "Spring/Exception/데이터 접근 예외.md",
     "Spring/Exception/@ControllerAdvice.md",
-    "JAVA/객체 지향.md",
-    "CS/Thread.md",
-    "미완성 문서/Event-driven Programming.md",
-    "JAVA/다형성.md",
-    "JAVA/메서드 오버라이딩.md",
     "Spring/데이터 접근 기술/무제 폴더",
     "Spring/데이터 접근 기술",
     "TCP",
