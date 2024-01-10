@@ -68,7 +68,7 @@ private void useDataSource(DataSource dataSource) throws SQLException {
 	- 이는 DataSource를 설정하는 부분과 사용하는 부분을 명확히 나눠서, 사용하는 부분에서는 URL, USERNAME, PASSWORD 등에 의존하지 않고 DataSource만 주입받아 사용할 수 있게 할 수 있다. 
 	- 한 곳에서 설정한 것으로 여러곳에서 사용할 수 있다.
 - useDataSource를 만들때, DataSource만 주입해주면 어떤 방식으로 DataSource를 만들었는지와는 상관없이 똑같이 사용 가능
-	- 이는 곧, **DataSource를 외부에서 [의존관계 주입](의존관계%20주입.md) 하여 사용**할 수 있다는 뜻
+	- 이는 곧, **DataSource를 외부에서 [의존관계 주입](../CS/디자인%20패턴/의존관계%20주입.md) 하여 사용**할 수 있다는 뜻
 	- 리포지토리가 DataSource 인터페이스에만 의존하고 있다면, DriverManagerDataSource에서 HikariDataSource로 변경해서 주입한다 하더라도 문제가 되지 않는다
 
 
@@ -177,4 +177,4 @@ static class TestConfig {
 }
 ```
 - DataSource와 트랜잭션 매니저가 자동으로 등록되어 있기 때문에, 직접 생성해서 넣지 않는다.
-- application.properties를 기반으로 생성되어 [스프링 컨테이너](스프링%20컨테이너.md)에 보관되어 있는 DataSource를 [의존관계 주입](의존관계%20주입.md) 및 [의존관계 자동 주입](의존관계%20자동%20주입.md) 받을 수 있다.
+- application.properties를 기반으로 생성되어 [스프링 컨테이너](스프링%20컨테이너.md)에 보관되어 있는 DataSource를 [의존관계 주입](../CS/디자인%20패턴/의존관계%20주입.md) 및 [의존관계 자동 주입](의존관계%20자동%20주입.md) 받을 수 있다.
