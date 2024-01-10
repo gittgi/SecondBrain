@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/디자인 패턴/옵저버 패턴.md",
+                "file": "알고리즘/애옹스쿨/정수론.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/디자인 패턴/옵저버 패턴.md",
+                "file": "알고리즘/애옹스쿨/정수론.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/디자인 패턴/옵저버 패턴.md",
+                "file": "알고리즘/애옹스쿨/정수론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/디자인 패턴/옵저버 패턴.md"
+                "file": "알고리즘/애옹스쿨/정수론.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   },
   "active": "b328f0e44fe019bf",
   "lastOpenFiles": [
+    "알고리즘/애옹스쿨/완전 탐색.md",
+    "알고리즘/애옹스쿨/문제 풀이 전략.md",
+    "알고리즘/애옹스쿨/정수론.md",
+    "CS/디자인 패턴/옵저버 패턴.md",
     "CS/디자인 패턴/전략 패턴.md",
     "CS/디자인 패턴/의존관계 주입.md",
     "CS/디자인 패턴/이터레이터 패턴.md",
@@ -167,7 +171,6 @@
     "미완성 문서/라이브러리와 프레임워크.md",
     "CS/제어의 역전.md",
     "CS/디자인 패턴/디자인 패턴.md",
-    "CS/디자인 패턴/옵저버 패턴.md",
     "미완성 문서/템플릿 콜백 패턴.md",
     "CS/디자인 패턴/프록시 패턴.md",
     "JAVA/추상화.md",
@@ -175,8 +178,6 @@
     "JAVA/메소드 오버로딩.md",
     "CS/static.md",
     "CS/클래스, 객체 그리고 인스턴스.md",
-    "알고리즘/무제 폴더/완전 탐색.md",
-    "알고리즘/무제 폴더/문제 풀이 전략.md",
     "JAVA/JDBC.md",
     "Spring/데이터 접근 기술/JdbcTemplate.md",
     "CS/CI_CD.md",
@@ -185,8 +186,7 @@
     "CS/가상머신.md",
     "스크린샷 2024-01-04 오후 5.50.58.png",
     "CS/API.md",
-    "CS/Interface.md",
-    "알고리즘/무제 폴더",
+    "알고리즘/애옹스쿨",
     "알고리즘",
     "Spring/데이터 접근 기술/무제 폴더",
     "Spring/데이터 접근 기술",
