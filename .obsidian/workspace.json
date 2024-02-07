@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/애옹스쿨/투 포인터.md",
+                "file": "알고리즘/애옹스쿨/자료구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/애옹스쿨/투 포인터.md",
+                "file": "알고리즘/애옹스쿨/자료구조.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/애옹스쿨/투 포인터.md",
+                "file": "알고리즘/애옹스쿨/자료구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/애옹스쿨/투 포인터.md"
+                "file": "알고리즘/애옹스쿨/자료구조.md"
               }
             }
           },
@@ -159,11 +159,12 @@
   },
   "active": "b328f0e44fe019bf",
   "lastOpenFiles": [
+    "알고리즘/애옹스쿨/이진 탐색.md",
+    "알고리즘/애옹스쿨/자료구조.md",
+    "알고리즘/애옹스쿨/투 포인터.md",
+    "알고리즘/애옹스쿨/누적합.md",
     "알고리즘/애옹스쿨/정수론.md",
     "알고리즘/애옹스쿨/완전 탐색.md",
-    "알고리즘/애옹스쿨/이진 탐색.md",
-    "알고리즘/애옹스쿨/누적합.md",
-    "알고리즘/애옹스쿨/투 포인터.md",
     "알고리즘/애옹스쿨/문제 풀이 전략.md",
     "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
     "CS/디자인 패턴/옵저버 패턴.md",
@@ -185,7 +186,6 @@
     "CS/클래스, 객체 그리고 인스턴스.md",
     "JAVA/JDBC.md",
     "Spring/데이터 접근 기술/JdbcTemplate.md",
-    "CS/CI_CD.md",
     "스크린샷 2024-01-04 오후 5.50.58.png",
     "알고리즘/애옹스쿨",
     "알고리즘",
