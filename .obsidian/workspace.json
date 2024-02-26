@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0870d56b5102c9",
+        "id": "0241413673928eab",
         "type": "tabs",
         "children": [
           {
-            "id": "b328f0e44fe019bf",
+            "id": "ae785e9c10970921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/디자인 패턴/flux 패턴.md",
+                "file": "CS/네트워크/TCP IP 4계층.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/디자인 패턴/flux 패턴.md",
+                "file": "CS/네트워크/TCP IP 4계층.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/디자인 패턴/flux 패턴.md",
+                "file": "CS/네트워크/TCP IP 4계층.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/디자인 패턴/flux 패턴.md"
+                "file": "CS/네트워크/TCP IP 4계층.md"
               }
             }
           },
@@ -157,15 +157,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fa8aa2afc79390d",
+  "active": "ae785e9c10970921",
   "lastOpenFiles": [
-    "CS/디자인 패턴/MVC, MVP, MVVM 패턴.md",
-    "CS/디자인 패턴/flux 패턴.md",
-    "Spring/Spring MVC/MVC.md",
-    "CS/디자인 패턴/프록시 패턴.md",
-    "CS/디자인 패턴/옵저버 패턴.md",
-    "CS/디자인 패턴/팩토리 패턴.md",
+    "CS/네트워크/TCP IP 4계층.md",
+    "CS/네트워크/네트워크 분류.md",
+    "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
+    "CS/네트워크/토폴로지.md",
     "알고리즘/애옹스쿨/백트래킹.md",
+    "CS/네트워크/네트워크.md",
+    "CS/디자인 패턴/flux 패턴.md",
+    "CS/디자인 패턴/MVC, MVP, MVVM 패턴.md",
+    "CS/디자인 패턴/프록시 패턴.md",
+    "CS/디자인 패턴/팩토리 패턴.md",
+    "CS/디자인 패턴/전략 패턴.md",
+    "CS/디자인 패턴/이터레이터 패턴.md",
+    "CS/디자인 패턴/의존관계 주입.md",
+    "CS/디자인 패턴/옵저버 패턴.md",
+    "CS/디자인 패턴/싱글톤 패턴.md",
+    "CS/디자인 패턴/디자인 패턴.md",
+    "CS/네트워크",
+    "CS/무제 파일.md",
+    "Spring/Spring MVC/MVC.md",
     "알고리즘/애옹스쿨/자료구조.md",
     "알고리즘/애옹스쿨/완전 탐색.md",
     "알고리즘/애옹스쿨/누적합.md",
@@ -174,18 +186,7 @@
     "알고리즘/애옹스쿨/정수론.md",
     "알고리즘/애옹스쿨/문제 풀이 전략.md",
     "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
-    "CS/디자인 패턴/전략 패턴.md",
-    "CS/디자인 패턴/의존관계 주입.md",
-    "CS/디자인 패턴/이터레이터 패턴.md",
-    "CS/디자인 패턴/싱글톤 패턴.md",
     "스크린샷 2023-07-05 오후 9.57.49.png",
-    "미완성 문서/라이브러리와 프레임워크.md",
-    "CS/제어의 역전.md",
-    "CS/디자인 패턴/디자인 패턴.md",
-    "미완성 문서/템플릿 콜백 패턴.md",
-    "JAVA/추상화.md",
-    "JAVA/메서드 오버라이딩.md",
-    "JAVA/메소드 오버로딩.md",
     "스크린샷 2024-01-04 오후 5.50.58.png",
     "알고리즘/애옹스쿨",
     "알고리즘",
@@ -197,7 +198,6 @@
     "무제 파일.canvas",
     "이미지",
     "checkbox-styles.png",
-    "Spring/Spring MVC",
-    "미완성 문서"
+    "Spring/Spring MVC"
   ]
 }

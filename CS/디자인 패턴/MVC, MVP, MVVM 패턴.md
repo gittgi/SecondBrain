@@ -1,3 +1,9 @@
+---
+tags:
+  - 디자인패턴
+  - CS_지식의_정석
+---
+
 # MVC, MVP, MVVM 패턴
 
 ```table-of-contents
