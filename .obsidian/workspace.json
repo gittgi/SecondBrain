@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/네트워크/TCP IP 4계층.md",
-                "mode": "source",
+                "file": "CS/네트워크/MTU.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/네트워크/TCP IP 4계층.md",
+                "file": "CS/네트워크/MTU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/네트워크/TCP IP 4계층.md",
+                "file": "CS/네트워크/MTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/네트워크/TCP IP 4계층.md"
+                "file": "CS/네트워크/MTU.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   "active": "ae785e9c10970921",
   "lastOpenFiles": [
     "CS/네트워크/TCP IP 4계층.md",
+    "CS/네트워크/MTU.md",
     "CS/네트워크/네트워크 분류.md",
     "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
     "CS/네트워크/토폴로지.md",
@@ -185,7 +186,6 @@
     "알고리즘/애옹스쿨/투 포인터.md",
     "알고리즘/애옹스쿨/정수론.md",
     "알고리즘/애옹스쿨/문제 풀이 전략.md",
-    "Spring/Spring MVC/ArgumentResolver와 ReturnValueHandler.md",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
     "알고리즘/애옹스쿨",

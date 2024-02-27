@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#6e4ce6",
     "recentlyUsedIcons": [
+      "FarFile",
       "FarFolderClosed",
       "FarImages",
       "FarNewspaper",
-      "FarFolder",
-      "FarFolderOpen"
+      "FarFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,6 @@
   },
   "알고리즘": "FarFolder",
   "알고리즘/애옹스쿨": "FarFolder",
-  "CS/네트워크": "FarFolder"
+  "CS/네트워크": "FarFolder",
+  "CS/네트워크/토폴로지.md": "FarFile"
 }
