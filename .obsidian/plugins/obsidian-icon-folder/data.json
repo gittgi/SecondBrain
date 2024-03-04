@@ -80,6 +80,9 @@
   },
   "알고리즘": "FarFolder",
   "알고리즘/애옹스쿨": "FarFolder",
-  "CS/네트워크": "FarFolder",
+  "CS/네트워크": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
   "CS/네트워크/토폴로지.md": "FarFile"
 }
