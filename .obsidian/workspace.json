@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/네트워크/4-way-handshake.md",
+                "file": "CS/네트워크/주소.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/네트워크/4-way-handshake.md",
+                "file": "CS/네트워크/주소.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/네트워크/4-way-handshake.md",
+                "file": "CS/네트워크/주소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/네트워크/4-way-handshake.md"
+                "file": "CS/네트워크/주소.md"
               }
             }
           },
@@ -159,16 +159,18 @@
   },
   "active": "ae785e9c10970921",
   "lastOpenFiles": [
+    "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
+    "CS/네트워크/주소.md",
+    "CS/네트워크/라우팅.md",
+    "CS/네트워크/4-way-handshake.md",
     "CS/네트워크/전송 계층.md",
     "CS/네트워크/TCP IP 4계층.md",
-    "CS/네트워크/4-way-handshake.md",
     "CS/네트워크/3-way-handshake.md",
     "CS/네트워크/인터넷 계층.md",
     "CS/네트워크/네트워크.md",
     "CS/네트워크/네트워크 분류.md",
     "CS/네트워크/어플리케이션 계층.md",
     "CS/네트워크/MTU.md",
-    "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
     "CS/네트워크/토폴로지.md",
     "알고리즘/애옹스쿨/백트래킹.md",
     "CS/디자인 패턴/flux 패턴.md",
@@ -184,8 +186,6 @@
     "CS/네트워크",
     "CS/무제 파일.md",
     "Spring/Spring MVC/MVC.md",
-    "알고리즘/애옹스쿨/자료구조.md",
-    "알고리즘/애옹스쿨/완전 탐색.md",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
     "알고리즘/애옹스쿨",
