@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Docker.md",
+                "file": "알고리즘/애옹스쿨/백트래킹.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Docker.md",
+                "file": "알고리즘/애옹스쿨/백트래킹.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Docker.md",
+                "file": "알고리즘/애옹스쿨/백트래킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Docker.md"
+                "file": "알고리즘/애옹스쿨/백트래킹.md"
               }
             }
           },
@@ -157,8 +157,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae785e9c10970921",
+  "active": "0c0c2b423d7b95ad",
   "lastOpenFiles": [
+    "알고리즘/애옹스쿨/DP.md",
+    "알고리즘/애옹스쿨/투 포인터.md",
+    "CS/Docker.md",
     "CS/클라우드.md",
     "CS/네트워크/주소.md",
     "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
@@ -182,10 +185,7 @@
     "CS/디자인 패턴/이터레이터 패턴.md",
     "CS/디자인 패턴/의존관계 주입.md",
     "CS/디자인 패턴/옵저버 패턴.md",
-    "CS/디자인 패턴/싱글톤 패턴.md",
-    "CS/디자인 패턴/디자인 패턴.md",
     "CS/네트워크",
-    "CS/무제 파일.md",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
     "알고리즘/애옹스쿨",

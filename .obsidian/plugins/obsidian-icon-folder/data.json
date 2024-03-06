@@ -79,7 +79,10 @@
     "inheritanceIcon": "FarFile"
   },
   "알고리즘": "FarFolder",
-  "알고리즘/애옹스쿨": "FarFolder",
+  "알고리즘/애옹스쿨": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
   "CS/네트워크": {
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
