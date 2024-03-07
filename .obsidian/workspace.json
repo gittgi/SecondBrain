@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/애옹스쿨/백트래킹.md",
-                "mode": "source",
+                "file": "CS/네트워크/IP 주소.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cc9c0b11b57cec1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/애옹스쿨/백트래킹.md",
+                "file": "CS/네트워크/IP 주소.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/애옹스쿨/백트래킹.md",
+                "file": "CS/네트워크/IP 주소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/애옹스쿨/백트래킹.md"
+                "file": "CS/네트워크/IP 주소.md"
               }
             }
           },
@@ -157,13 +158,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c0c2b423d7b95ad",
+  "active": "ae785e9c10970921",
   "lastOpenFiles": [
-    "알고리즘/애옹스쿨/DP.md",
-    "알고리즘/애옹스쿨/투 포인터.md",
+    "Spring/의존관계 자동 주입.md",
     "CS/Docker.md",
-    "CS/클라우드.md",
+    "알고리즘/애옹스쿨/투 포인터.md",
+    "CS/네트워크/IP 주소.md",
     "CS/네트워크/주소.md",
+    "알고리즘/애옹스쿨/DP.md",
+    "알고리즘/애옹스쿨/백트래킹.md",
+    "CS/클라우드.md",
     "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
     "CS/네트워크/라우팅.md",
     "CS/네트워크/4-way-handshake.md",
@@ -176,15 +180,12 @@
     "CS/네트워크/어플리케이션 계층.md",
     "CS/네트워크/MTU.md",
     "CS/네트워크/토폴로지.md",
-    "알고리즘/애옹스쿨/백트래킹.md",
     "CS/디자인 패턴/flux 패턴.md",
     "CS/디자인 패턴/MVC, MVP, MVVM 패턴.md",
     "CS/디자인 패턴/프록시 패턴.md",
     "CS/디자인 패턴/팩토리 패턴.md",
     "CS/디자인 패턴/전략 패턴.md",
     "CS/디자인 패턴/이터레이터 패턴.md",
-    "CS/디자인 패턴/의존관계 주입.md",
-    "CS/디자인 패턴/옵저버 패턴.md",
     "CS/네트워크",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
