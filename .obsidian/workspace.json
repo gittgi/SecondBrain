@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/애옹스쿨/B형 특강.md",
+                "file": "알고리즘/애옹스쿨/DP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/애옹스쿨/B형 특강.md",
+                "file": "알고리즘/애옹스쿨/DP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/애옹스쿨/B형 특강.md",
+                "file": "알고리즘/애옹스쿨/DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/애옹스쿨/B형 특강.md"
+                "file": "알고리즘/애옹스쿨/DP.md"
               }
             }
           },
@@ -159,13 +159,15 @@
   },
   "active": "ae785e9c10970921",
   "lastOpenFiles": [
-    "CS/네트워크/IP 주소.md",
+    "알고리즘/애옹스쿨/무제 파일.md",
+    "알고리즘/애옹스쿨/정수론.md",
+    "알고리즘/애옹스쿨/DP.md",
     "알고리즘/애옹스쿨/B형 특강.md",
+    "CS/네트워크/IP 주소.md",
     "Spring/의존관계 자동 주입.md",
     "CS/Docker.md",
     "알고리즘/애옹스쿨/투 포인터.md",
     "CS/네트워크/주소.md",
-    "알고리즘/애옹스쿨/DP.md",
     "알고리즘/애옹스쿨/백트래킹.md",
     "CS/클라우드.md",
     "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
@@ -183,8 +185,6 @@
     "CS/디자인 패턴/flux 패턴.md",
     "CS/디자인 패턴/MVC, MVP, MVVM 패턴.md",
     "CS/디자인 패턴/프록시 패턴.md",
-    "CS/디자인 패턴/팩토리 패턴.md",
-    "CS/디자인 패턴/전략 패턴.md",
     "CS/네트워크",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
