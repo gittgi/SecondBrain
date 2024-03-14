@@ -500,10 +500,10 @@ print(dp[len(s) - 1][len(p) - 1])
 - `내려가기`(골드 5) 문제에서 사용
 - 핵심은 **당장에 `dp[i]`를 구하기위해 필수적인 애들만 남기는 것** -> 필요 없는 부분을 덮어쓰기로 재활용하기
 
-##### RGB 가리 2
+##### RGB 거리 2
 ```python
 n = int(input())
-dp = [[0, 0, 0], [0, 0, 0]]
+dp = [0, 0, 0](0,%200,%200)
 for i in range(n):
 	arr = list(map(int, input().split()))
 	for j in range(3):

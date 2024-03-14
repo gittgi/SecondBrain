@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0241413673928eab",
+        "id": "29eeeaf11b6d4575",
         "type": "tabs",
         "children": [
           {
-            "id": "ae785e9c10970921",
+            "id": "64dc3d5b91dd3a81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/애옹스쿨/DP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/애옹스쿨/DP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/애옹스쿨/DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "알고리즘/애옹스쿨/DP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,11 +149,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae785e9c10970921",
+  "active": "64dc3d5b91dd3a81",
   "lastOpenFiles": [
+    "FrontEnd/DOM.md",
+    "FrontEnd/Closure.md",
+    "FrontEnd/실행 컨텍스트.md",
+    "FrontEnd/React/useEffect.md",
+    "FrontEnd/React/useMemo.md",
+    "FrontEnd/React/Components.md",
+    "FrontEnd/React/useState.md",
+    "Untitled.png",
+    "FrontEnd/React/React Element.md",
+    "FrontEnd",
+    "FrontEnd/React/JSX.md",
+    "미완성 문서/Babel.md",
+    "미완성 문서/XSS.md",
+    "알고리즘/애옹스쿨/DP.md",
+    "FrontEnd/React",
     "알고리즘/애옹스쿨/무제 파일.md",
     "알고리즘/애옹스쿨/정수론.md",
-    "알고리즘/애옹스쿨/DP.md",
     "알고리즘/애옹스쿨/B형 특강.md",
     "CS/네트워크/IP 주소.md",
     "Spring/의존관계 자동 주입.md",
@@ -174,17 +180,6 @@
     "CS/네트워크/라우팅.md",
     "CS/네트워크/4-way-handshake.md",
     "CS/네트워크/전송 계층.md",
-    "CS/네트워크/TCP IP 4계층.md",
-    "CS/네트워크/3-way-handshake.md",
-    "CS/네트워크/인터넷 계층.md",
-    "CS/네트워크/네트워크.md",
-    "CS/네트워크/네트워크 분류.md",
-    "CS/네트워크/어플리케이션 계층.md",
-    "CS/네트워크/MTU.md",
-    "CS/네트워크/토폴로지.md",
-    "CS/디자인 패턴/flux 패턴.md",
-    "CS/디자인 패턴/MVC, MVP, MVVM 패턴.md",
-    "CS/디자인 패턴/프록시 패턴.md",
     "CS/네트워크",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
@@ -196,8 +191,6 @@
     "Spring/Exception",
     "Spring/Validation",
     "무제 파일.canvas",
-    "이미지",
-    "checkbox-styles.png",
-    "Spring/Spring MVC"
+    "checkbox-styles.png"
   ]
 }

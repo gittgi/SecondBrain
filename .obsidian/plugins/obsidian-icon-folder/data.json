@@ -87,5 +87,13 @@
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
   },
-  "CS/네트워크/토폴로지.md": "FarFile"
+  "CS/네트워크/토폴로지.md": "FarFile",
+  "FrontEnd": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  },
+  "FrontEnd/React": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
+  }
 }
