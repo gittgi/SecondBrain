@@ -11,8 +11,12 @@
             "id": "64dc3d5b91dd3a81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/애옹스쿨/DFS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "알고리즘/애옹스쿨/DFS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "알고리즘/애옹스쿨/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "알고리즘/애옹스쿨/DFS.md"
+              }
             }
           },
           {
@@ -151,6 +159,9 @@
   },
   "active": "64dc3d5b91dd3a81",
   "lastOpenFiles": [
+    "알고리즘/애옹스쿨/그리디.md",
+    "알고리즘/애옹스쿨/DFS.md",
+    "알고리즘/애옹스쿨/DP.md",
     "FrontEnd/DOM.md",
     "FrontEnd/Closure.md",
     "FrontEnd/실행 컨텍스트.md",
@@ -164,9 +175,7 @@
     "FrontEnd/React/JSX.md",
     "미완성 문서/Babel.md",
     "미완성 문서/XSS.md",
-    "알고리즘/애옹스쿨/DP.md",
     "FrontEnd/React",
-    "알고리즘/애옹스쿨/무제 파일.md",
     "알고리즘/애옹스쿨/정수론.md",
     "알고리즘/애옹스쿨/B형 특강.md",
     "CS/네트워크/IP 주소.md",
@@ -179,7 +188,6 @@
     "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
     "CS/네트워크/라우팅.md",
     "CS/네트워크/4-way-handshake.md",
-    "CS/네트워크/전송 계층.md",
     "CS/네트워크",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
