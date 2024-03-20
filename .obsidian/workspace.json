@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29eeeaf11b6d4575",
+        "id": "cafeb0ad0fefea7f",
         "type": "tabs",
         "children": [
           {
-            "id": "64dc3d5b91dd3a81",
+            "id": "ddab63a79a4e3ba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64dc3d5b91dd3a81",
+  "active": "ddab63a79a4e3ba3",
   "lastOpenFiles": [
+    "README.md",
     "알고리즘/애옹스쿨/그리디.md",
     "알고리즘/애옹스쿨/DFS.md",
+    "알고리즘/애옹스쿨/무제 파일.md",
     "알고리즘/애옹스쿨/DP.md",
     "FrontEnd/DOM.md",
     "FrontEnd/Closure.md",
@@ -186,8 +188,6 @@
     "알고리즘/애옹스쿨/백트래킹.md",
     "CS/클라우드.md",
     "CS/네트워크/유니캐스트, 멀티캐스트, 브로드캐스트.md",
-    "CS/네트워크/라우팅.md",
-    "CS/네트워크/4-way-handshake.md",
     "CS/네트워크",
     "스크린샷 2023-07-05 오후 9.57.49.png",
     "스크린샷 2024-01-04 오후 5.50.58.png",
