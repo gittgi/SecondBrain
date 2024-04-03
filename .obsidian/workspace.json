@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/애옹스쿨/다익스트라.md",
-                "mode": "source",
+                "file": "알고리즘/애옹스쿨/트리.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/애옹스쿨/다익스트라.md",
+                "file": "알고리즘/애옹스쿨/트리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/애옹스쿨/다익스트라.md",
+                "file": "알고리즘/애옹스쿨/트리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/애옹스쿨/다익스트라.md"
+                "file": "알고리즘/애옹스쿨/트리.md"
               }
             }
           },
@@ -159,19 +159,20 @@
   },
   "active": "ddab63a79a4e3ba3",
   "lastOpenFiles": [
+    "알고리즘/애옹스쿨/이진 탐색.md",
+    "알고리즘/애옹스쿨/트리.md",
+    "알고리즘/애옹스쿨/누적합.md",
+    "알고리즘/애옹스쿨/다익스트라.md",
     "알고리즘/애옹스쿨/BFS.md",
     "알고리즘/애옹스쿨/투 포인터.md",
-    "알고리즘/애옹스쿨/다익스트라.md",
     "알고리즘/애옹스쿨/DP.md",
     "알고리즘/애옹스쿨/DFS.md",
     "알고리즘/애옹스쿨/B형 특강.md",
     "알고리즘/애옹스쿨/정수론.md",
     "알고리즘/애옹스쿨/자료구조.md",
-    "알고리즘/애옹스쿨/이진 탐색.md",
     "알고리즘/애옹스쿨/완전 탐색.md",
     "알고리즘/애옹스쿨/백트래킹.md",
     "알고리즘/애옹스쿨/문제 풀이 전략.md",
-    "알고리즘/애옹스쿨/누적합.md",
     "알고리즘/애옹스쿨/그리디.md",
     "README.md",
     "FrontEnd/DOM.md",
@@ -186,7 +187,6 @@
     "FrontEnd",
     "FrontEnd/React/JSX.md",
     "미완성 문서/Babel.md",
-    "미완성 문서/XSS.md",
     "FrontEnd/React",
     "CS/네트워크",
     "스크린샷 2023-07-05 오후 9.57.49.png",
