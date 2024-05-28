@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/애옹스쿨/트리.md",
-                "mode": "preview",
+                "file": "CS/HTTP/HTTP 1.0과 1.1의 차이.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:TCP",
+                "query": "RTT",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/애옹스쿨/트리.md",
+                "file": "CS/HTTP/HTTP 1.0과 1.1의 차이.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/애옹스쿨/트리.md",
+                "file": "CS/HTTP/HTTP 1.0과 1.1의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/애옹스쿨/트리.md"
+                "file": "CS/HTTP/HTTP 1.0과 1.1의 차이.md"
               }
             }
           },
@@ -159,11 +160,18 @@
   },
   "active": "ddab63a79a4e3ba3",
   "lastOpenFiles": [
-    "알고리즘/애옹스쿨/이진 탐색.md",
+    "CS/네트워크/네트워크.md",
+    "CS/HTTP/HTTP 1.0과 1.1의 차이.md",
+    "CS/네트워크/3-way-handshake.md",
+    "CS/HTTP/HTTP Header.md",
+    "CS/네트워크/IP 주소.md",
+    "CS/HTTP",
+    "CS/네트워크/주소.md",
+    "알고리즘/애옹스쿨/BFS.md",
     "알고리즘/애옹스쿨/트리.md",
+    "알고리즘/애옹스쿨/이진 탐색.md",
     "알고리즘/애옹스쿨/누적합.md",
     "알고리즘/애옹스쿨/다익스트라.md",
-    "알고리즘/애옹스쿨/BFS.md",
     "알고리즘/애옹스쿨/투 포인터.md",
     "알고리즘/애옹스쿨/DP.md",
     "알고리즘/애옹스쿨/DFS.md",
@@ -179,14 +187,8 @@
     "FrontEnd/Closure.md",
     "FrontEnd/실행 컨텍스트.md",
     "FrontEnd/React/useEffect.md",
-    "FrontEnd/React/useMemo.md",
-    "FrontEnd/React/Components.md",
-    "FrontEnd/React/useState.md",
     "Untitled.png",
-    "FrontEnd/React/React Element.md",
     "FrontEnd",
-    "FrontEnd/React/JSX.md",
-    "미완성 문서/Babel.md",
     "FrontEnd/React",
     "CS/네트워크",
     "스크린샷 2023-07-05 오후 9.57.49.png",
@@ -197,7 +199,6 @@
     "Spring/데이터 접근 기술",
     "TCP",
     "Spring/Exception",
-    "Spring/Validation",
     "무제 파일.canvas",
     "checkbox-styles.png"
   ]

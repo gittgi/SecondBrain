@@ -95,5 +95,9 @@
   "FrontEnd/React": {
     "iconName": "FarFolder",
     "inheritanceIcon": "FarFile"
+  },
+  "CS/HTTP": {
+    "iconName": "FarFolder",
+    "inheritanceIcon": "FarFile"
   }
 }
